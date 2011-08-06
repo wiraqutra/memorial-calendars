@@ -54,22 +54,31 @@ sub main {
     # 出力ファイル名
     my $file = $ARGV[1] || $ICAL_FILE;
 
-    # Wikipeida から情報を取り出す
+    # Wikipeida から「できごと」情報を取り出す
     my $list = read_wikipedia() or die "load failed\n";
-    
-    # とりあえず、今年1月〜12月のカレンダーに登録する（来年は空）
-    my $year = (localtime)[5];
+    info("total events", scalar @$list);
+    die "No item found\n" unless scalar @$list;
+
+    # 対象の「できごと」を絞り込む
+    $list = event_grep($list, $regex);
+    info("match events", scalar @$list);
+    die "No item found\n" unless scalar @$list;
+
+    # 重複登場した「できごと」を省く
+    $list = event_sort($list);
+    $list = event_uniq($list);
+    info("uniq events", scalar @$list);
+    die "No item found\n" unless scalar @$list;
 
     # ループで iCal フォーマットを作成
+    my $calyear = (localtime)[5] + 1900;
     my $out = [];
-    my $cnt = 0;
     push(@$out, "BEGIN:VCALENDAR\n");
     push(@$out, "VERSION:2.0\n");
     foreach my $array (@$list) {
-        my($eyear, $mon, $day, $name, $link) = @$array;
-        next unless ($name =~ $regex);
-        my $title = $name." (".$eyear."年)";
-        my $date = sprintf("%04d%02d%02d", $year+1900, $mon, $day);
+        my($year, $mon, $day, $name, $link) = @$array;
+        my $title = $name." (".$year."年)";
+        my $date = sprintf("%04d%02d%02d", $calyear, $mon, $day);
         info($date, $title);
         push(@$out, "BEGIN:VEVENT\n");
         push(@$out, "DTSTART;VALUE=DATE:$date\n");
@@ -79,13 +88,46 @@ sub main {
         push(@$out, "STATUS:CONFIRMED\n");
         push(@$out, "CLASS:PUBLIC\n");
         push(@$out, "END:VEVENT\n");
-        $cnt ++;
     }
     push(@$out, "END:VCALENDAR\n");
-    die "No item found\n" unless $cnt;
     
     # iCal ファイルに保存する
     save($file, $out);
+}
+
+# イベントを絞り込む
+# grep１行で書けそうだけど、分かりやすく
+sub event_grep {
+    my $src = shift;
+    my $regex = shift;
+    my $dst = [];
+
+    foreach my $array (@$src) {
+        my($eyear, $mon, $day, $name, $link) = @$array;
+        next unless ($name =~ $regex);
+        push(@$dst, $array);
+    }
+    $dst;
+}
+
+# イベントを時系列でソートする
+sub event_sort {
+    my $src = shift;
+    my $dst = [sort {$a->[0] <=> $b->[0] || $a->[1] <=> $b->[1] || $a->[2] <=> $b->[2]} @$src];
+    $dst;
+}
+
+# 重複したイベントを省く
+sub event_uniq {
+    my $src = shift;
+    my $dst = [];
+    my $chk = {};
+    foreach my $array (@$src) {
+        my($year, $mon, $day, $name, $link) = @$array;
+        next if $chk->{$link} ++;
+        push(@$dst, $array);
+    }
+    $dst;
 }
 
 # キャッシュ付きで Wikipedia のカレンダーページを取り出す
