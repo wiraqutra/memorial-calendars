@@ -18,6 +18,10 @@ N/A
 
 Human life value is priceless.
 
+== Author ==
+
+Yusuke Kawasaki a.k.a. [http://twitter.com/kawanet @kawanet]
+
 == Note ==
 
 This application is based on an idea of @ishii_mit, Associate Director of the MIT Media Lab:
