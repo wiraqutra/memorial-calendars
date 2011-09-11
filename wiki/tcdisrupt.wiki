@@ -26,7 +26,7 @@ Human life value is priceless.
 
 == Author ==
 
-Yusuke Kawasaki, a.k.a. [http://twitter.com/kawanet @kawanet], Perl, JavaScript and ActionScript hacker. Japanese.
+Yusuke Kawasaki, a.k.a. [http://twitter.com/kawanet @kawanet], Perl, Javascript and Actionscript hacker. Japanese.
 
 == Note ==
 
