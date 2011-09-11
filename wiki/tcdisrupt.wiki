@@ -6,6 +6,9 @@ This calendar shows memorial days of earthquakes on the globe.
 It's true that almost every day has had an earthquake(s) in the history.
 The wisdom helps us to do something preparing toward the next coming disasters. 
 
+  * CALENDAR http://bit.ly/eqcaltc
+  * KML for Google Earth http://memorial-calendars.googlecode.com/svn/trunk/pre2/data/eq-map.kml
+
 == Resources ==
 
   * Wikipedia: http://en.wikipedia.org/wiki/List_of_earthquakes
