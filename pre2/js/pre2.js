@@ -299,7 +299,10 @@ function onLoadList (data) {
 }
 
 function showMap () {
-    var myLatLng = new google.maps.LatLng(10, 20);
+    // WEST: EUROPE, EAST: US
+    var myLatLng = new google.maps.LatLng(10, 150);
+    // WEST: US, EAST: NZ
+    // var myLatLng = new google.maps.LatLng(10, 20);
     theMap = new google.maps.Map(document.getElementById('maphere'), {
         zoom: 2,
         center: myLatLng,
