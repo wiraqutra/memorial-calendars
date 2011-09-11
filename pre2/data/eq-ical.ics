@@ -1,0 +1,6032 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:20110205-pompeii-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110205
+DTEND;VALUE=DATE:20110205
+LOCATION:Bay of Naples, Italy
+SUMMARY:62 Pompeii earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/62_Pompeii_earthquake
+URL:http://en.wikipedia.org/wiki/62_Pompeii_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110721-crete-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110721
+DTEND;VALUE=DATE:20110721
+LOCATION:Crete
+SUMMARY:365 Crete earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/365_Crete_earthquake
+URL:http://en.wikipedia.org/wiki/365_Crete_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110519-antioch-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110519
+DTEND;VALUE=DATE:20110519
+LOCATION:Antioch, Turkey
+SUMMARY:526 Antioch earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/526_Antioch_earthquake
+URL:http://en.wikipedia.org/wiki/526_Antioch_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110706-beirut-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110706
+DTEND;VALUE=DATE:20110706
+LOCATION:Beirut, Tyre, Tripoli
+SUMMARY:551 Beirut earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/551_Beirut_earthquake
+URL:http://en.wikipedia.org/wiki/551_Beirut_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111124-damascus-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111124
+DTEND;VALUE=DATE:20111124
+LOCATION:Damascus, Syria
+SUMMARY:847 Damascus, Syria
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111222-qumis-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111222
+DTEND;VALUE=DATE:20111222
+LOCATION:Qumis, Iran
+SUMMARY:856 Qumis, Iran
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110713-sanriku-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110713
+DTEND;VALUE=DATE:20110713
+LOCATION:Sendai, Japan
+SUMMARY:869 Sanriku earthquake and tsunami
+DESCRIPTION:http://en.wikipedia.org/wiki/869_Sanriku_earthquake_and_tsunami
+URL:http://en.wikipedia.org/wiki/869_Sanriku_earthquake_and_tsunami
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110323-ardabil-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110323
+DTEND;VALUE=DATE:20110323
+LOCATION:Ardabil, Iran
+SUMMARY:893 Ardabil, Iran
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111228-dvin-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111228
+DTEND;VALUE=DATE:20111228
+LOCATION:Dvin, Armenia
+SUMMARY:893 Dvin, Armenia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110812-palmyra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110812
+DTEND;VALUE=DATE:20110812
+LOCATION:Palmyra, Baalbek, Syria
+SUMMARY:1042 Palmyra, Baalbek, Syria
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111011-aleppo-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111011
+DTEND;VALUE=DATE:20111011
+LOCATION:Aleppo, Syria
+SUMMARY:1138 Aleppo earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1138_Aleppo_earthquake
+URL:http://en.wikipedia.org/wiki/1138_Aleppo_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110812-syria-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110812
+DTEND;VALUE=DATE:20110812
+LOCATION:Syria
+SUMMARY:1157 Syria
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110204-sicily-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110204
+DTEND;VALUE=DATE:20110204
+LOCATION:Sicily
+SUMMARY:1169 Sicily
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110629-eastern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110629
+DTEND;VALUE=DATE:20110629
+LOCATION:Eastern Mediterranean
+SUMMARY:1170 Eastern Mediterranean
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110705-eastern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110705
+DTEND;VALUE=DATE:20110705
+LOCATION:Eastern Mediterranean
+SUMMARY:1201 Eastern Mediterranean
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110511-cyprus-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110511
+DTEND;VALUE=DATE:20110511
+LOCATION:Cyprus
+SUMMARY:1222 Cyprus earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1222_Cyprus_earthquake
+URL:http://en.wikipedia.org/wiki/1222_Cyprus_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110927-chihli-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110927
+DTEND;VALUE=DATE:20110927
+LOCATION:Chihli , China
+SUMMARY:1290 Chihli earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1290_Chihli_earthquake
+URL:http://en.wikipedia.org/wiki/1290_Chihli_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110526-kamakura-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110526
+DTEND;VALUE=DATE:20110526
+LOCATION:Kamakura, Japan
+SUMMARY:1293 Kamakura, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110808-crete-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110808
+DTEND;VALUE=DATE:20110808
+LOCATION:1303 Crete earthquake, Greece
+SUMMARY:1303 Crete earthquake, Greece
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110125-earthquake-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110125
+DTEND;VALUE=DATE:20110125
+LOCATION:Friuli, Venice, Rome
+SUMMARY:Earthquake of 1348
+DESCRIPTION:http://en.wikipedia.org/wiki/Earthquake_of_1348
+URL:http://en.wikipedia.org/wiki/Earthquake_of_1348
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111018-basel-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111018
+DTEND;VALUE=DATE:20111018
+LOCATION:Basel, Switzerland
+SUMMARY:1356 Basel earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1356_Basel_earthquake
+URL:http://en.wikipedia.org/wiki/1356_Basel_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110521-canterbury-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110521
+DTEND;VALUE=DATE:20110521
+LOCATION:Canterbury, UK
+SUMMARY:1382 Canterbury, UK
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110202-catalonia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110202
+DTEND;VALUE=DATE:20110202
+LOCATION:Catalonia Catalan earthquake of 1428
+SUMMARY:1428 Catalonia Catalan earthquake of 1428
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110503-rhodes-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110503
+DTEND;VALUE=DATE:20110503
+LOCATION:Rhodes see1481 Rhodes earthquake
+SUMMARY:1481 Rhodes earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1481_Rhodes_earthquake
+URL:http://en.wikipedia.org/wiki/1481_Rhodes_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110920-mei-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110920
+DTEND;VALUE=DATE:20110920
+LOCATION:Honshu
+SUMMARY:1498 Meiō Nankaidō earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1498_Mei%C5%8D_Nankaid%C5%8D_earthquake
+URL:http://en.wikipedia.org/wiki/1498_Mei%C5%8D_Nankaid%C5%8D_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110910-istanbul-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110910
+DTEND;VALUE=DATE:20110910
+LOCATION:Istanbul, Turkey
+SUMMARY:1509 Istanbul earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1509_Istanbul_earthquake
+URL:http://en.wikipedia.org/wiki/1509_Istanbul_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110126-lisbon-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110126
+DTEND;VALUE=DATE:20110126
+LOCATION:Lisbon, Portugal
+SUMMARY:1531 Lisbon, Portugal
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110123-shaanxi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110123
+DTEND;VALUE=DATE:20110123
+LOCATION:Shaanxi, China
+SUMMARY:Shaanxi Earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/Shaanxi_Earthquake
+URL:http://en.wikipedia.org/wiki/Shaanxi_Earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111216-valdivia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111216
+DTEND;VALUE=DATE:20111216
+LOCATION:Valdivia, Chile
+SUMMARY:1575 Valdivia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1575_Valdivia_earthquake
+URL:http://en.wikipedia.org/wiki/1575_Valdivia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111124-arica-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111124
+DTEND;VALUE=DATE:20111124
+LOCATION:Arica, Chile
+SUMMARY:1604 Arica, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110203-keich-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110203
+DTEND;VALUE=DATE:20110203
+LOCATION:Shikoku, Honshu, Japan
+SUMMARY:1605 Keichō Nankaido earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1605_Keich%C5%8D_Nankaido_earthquake
+URL:http://en.wikipedia.org/wiki/1605_Keich%C5%8D_Nankaido_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110713-qiongshan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110713
+DTEND;VALUE=DATE:20110713
+LOCATION:Qiongshan, Hainan, China
+SUMMARY:1605 Qiongshan, Hainan, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110406-dubrovnik-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110406
+DTEND;VALUE=DATE:20110406
+LOCATION:Dubrovnik, Croatia
+SUMMARY:1667 Dubrovnik, Croatia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111125-shamakhi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111125
+DTEND;VALUE=DATE:20111125
+LOCATION:Shamakhi, Azerbaijan
+SUMMARY:1667 Shamakhi earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1667_Shamakhi_earthquake
+URL:http://en.wikipedia.org/wiki/1667_Shamakhi_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110817-anatolia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110817
+DTEND;VALUE=DATE:20110817
+LOCATION:Anatolia, Turkey
+SUMMARY:1668 Anatolia, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111020-peru-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111020
+DTEND;VALUE=DATE:20111020
+LOCATION:Lima, Peru
+SUMMARY:1687 Peru earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1687_Peru_earthquake
+URL:http://en.wikipedia.org/wiki/1687_Peru_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110607-jamaica-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110607
+DTEND;VALUE=DATE:20110607
+LOCATION:Port Royal, Jamaica
+SUMMARY:1692 Jamaica earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1692_Jamaica_earthquake
+URL:http://en.wikipedia.org/wiki/1692_Jamaica_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110111-sicily-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110111
+DTEND;VALUE=DATE:20110111
+LOCATION:Catania Province, Sicily
+SUMMARY:1693 Sicily earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1693_Sicily_earthquake
+URL:http://en.wikipedia.org/wiki/1693_Sicily_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110905-irpinia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110905
+DTEND;VALUE=DATE:20110905
+LOCATION:Irpinia, Italy
+SUMMARY:1694 Irpinia-Basilicata earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1694_Irpinia-Basilicata_earthquake
+URL:http://en.wikipedia.org/wiki/1694_Irpinia-Basilicata_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110126-cascadia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110126
+DTEND;VALUE=DATE:20110126
+LOCATION:Cascadia subduction zone
+SUMMARY:1700 Cascadia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1700_Cascadia_earthquake
+URL:http://en.wikipedia.org/wiki/1700_Cascadia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110114-apennine-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110114
+DTEND;VALUE=DATE:20110114
+LOCATION:Norcia, Italy
+SUMMARY:1703 Apennine earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/1703_Apennine_earthquakes
+URL:http://en.wikipedia.org/wiki/1703_Apennine_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110202-apennine-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110202
+DTEND;VALUE=DATE:20110202
+LOCATION:L'Aquila, Italy
+SUMMARY:1703 Apennine earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/1703_Apennine_earthquakes
+URL:http://en.wikipedia.org/wiki/1703_Apennine_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111231-genroku-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111231
+DTEND;VALUE=DATE:20111231
+LOCATION:Kanto region, Japan
+SUMMARY:1703 Genroku earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1703_Genroku_earthquake
+URL:http://en.wikipedia.org/wiki/1703_Genroku_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111028-h-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111028
+DTEND;VALUE=DATE:20111028
+LOCATION:Japan
+SUMMARY:1707 Hōei earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1707_H%C5%8Dei_earthquake
+URL:http://en.wikipedia.org/wiki/1707_H%C5%8Dei_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111118-tabriz-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111118
+DTEND;VALUE=DATE:20111118
+LOCATION:Tabriz, Iran
+SUMMARY:1727 Tabriz earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1727_Tabriz_earthquake
+URL:http://en.wikipedia.org/wiki/1727_Tabriz_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110708-valparaiso-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110708
+DTEND;VALUE=DATE:20110708
+LOCATION:Valparaiso, Chile
+SUMMARY:1730 Valparaiso earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1730_Valparaiso_earthquake
+URL:http://en.wikipedia.org/wiki/1730_Valparaiso_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110930-beijing-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110930
+DTEND;VALUE=DATE:20110930
+LOCATION:Beijing, China
+SUMMARY:1730 Beijing, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111016-kamchatka-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111016
+DTEND;VALUE=DATE:20111016
+LOCATION:Kamchatka, Russia
+SUMMARY:1737 Kamchatka, Russia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110525-concepci-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110525
+DTEND;VALUE=DATE:20110525
+LOCATION:Concepción, Chile see1751 Concepción earthquake
+SUMMARY:1751 Concepción earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1751_Concepci%C3%B3n_earthquake
+URL:http://en.wikipedia.org/wiki/1751_Concepci%C3%B3n_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110607-northern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110607
+DTEND;VALUE=DATE:20110607
+LOCATION:Northern Persia
+SUMMARY:1755 Northern Persia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111101-lisbon-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111101
+DTEND;VALUE=DATE:20111101
+LOCATION:Lisbon, Portugal
+SUMMARY:1755 Lisbon earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1755_Lisbon_earthquake
+URL:http://en.wikipedia.org/wiki/1755_Lisbon_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111118-cape-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111118
+DTEND;VALUE=DATE:20111118
+LOCATION:Boston, Massachusetts, USA
+SUMMARY:Cape Ann earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/Cape_Ann_earthquake
+URL:http://en.wikipedia.org/wiki/Cape_Ann_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111125-near-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111125
+DTEND;VALUE=DATE:20111125
+LOCATION:Eastern Mediterranean
+SUMMARY:Near East earthquake of 1759
+DESCRIPTION:http://en.wikipedia.org/wiki/Near_East_earthquake_of_1759
+URL:http://en.wikipedia.org/wiki/Near_East_earthquake_of_1759
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111021-saint-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111021
+DTEND;VALUE=DATE:20111021
+LOCATION:Saint Joseph, Trinidad and Tobago
+SUMMARY:1766 Saint Joseph, Trinidad and Tobago
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110603-port-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110603
+DTEND;VALUE=DATE:20110603
+LOCATION:Port-au-Prince, Haiti
+SUMMARY:1770 Port-au-Prince, Haiti
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110729-guatemala-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110729
+DTEND;VALUE=DATE:20110729
+LOCATION:Guatemala
+SUMMARY:1773 Guatemala earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1773_Guatemala_earthquake
+URL:http://en.wikipedia.org/wiki/1773_Guatemala_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110228-iran-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110228
+DTEND;VALUE=DATE:20110228
+LOCATION:Iran
+SUMMARY:1780 Iran
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110204-riobamba-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110204
+DTEND;VALUE=DATE:20110204
+LOCATION:Quito, Ecuador & Cuzco, Peru see1797 Riobamba earthquake
+SUMMARY:1797 Riobamba earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1797_Riobamba_earthquake
+URL:http://en.wikipedia.org/wiki/1797_Riobamba_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110210-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110210
+DTEND;VALUE=DATE:20110210
+LOCATION:Sumatra, East Indies see1797 Sumatra earthquake
+SUMMARY:1797 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1797_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/1797_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111122-san-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111122
+DTEND;VALUE=DATE:20111122
+LOCATION:San Diego, California, USA
+SUMMARY:1800 San Diego, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111026-vrancea-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111026
+DTEND;VALUE=DATE:20111026
+LOCATION:Vrancea region, Moldavia, now Romania
+SUMMARY:1802 Vrancea region, Moldavia, now Romania
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110216-crete-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110216
+DTEND;VALUE=DATE:20110216
+LOCATION:Crete, Heraklion
+SUMMARY:1810 Crete earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1810_Crete_earthquake
+URL:http://en.wikipedia.org/wiki/1810_Crete_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111216-new-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111216
+DTEND;VALUE=DATE:20111216
+LOCATION:New Madrid, Missouri, USA
+SUMMARY:1812 New Madrid earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1812_New_Madrid_earthquake
+URL:http://en.wikipedia.org/wiki/1812_New_Madrid_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110123-new-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110123
+DTEND;VALUE=DATE:20110123
+LOCATION:New Madrid, Missouri, USA
+SUMMARY:1812 New Madrid, Missouri, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110207-new-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110207
+DTEND;VALUE=DATE:20110207
+LOCATION:New Madrid, Missouri, USA
+SUMMARY:1812 New Madrid, Missouri, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111208-wrightwood-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111208
+DTEND;VALUE=DATE:20111208
+LOCATION:Wrightwood, California, USA
+SUMMARY:1812 Wrightwood, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111221-santa-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111221
+DTEND;VALUE=DATE:20111221
+LOCATION:Santa Barbara Channel, California, USA
+SUMMARY:1812 Santa Barbara Channel, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110602-south-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110602
+DTEND;VALUE=DATE:20110602
+LOCATION:south flank of Kīlauea, Hawaii, USA
+SUMMARY:1823 south flank of Kīlauea, Hawaii, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111125-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111125
+DTEND;VALUE=DATE:20111125
+LOCATION:Sumatra, East Indies see1833 Sumatra earthquake
+SUMMARY:1833 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1833_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/1833_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110610-south-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110610
+DTEND;VALUE=DATE:20110610
+LOCATION:south San Francisco Bay region, California, Mexico
+SUMMARY:1836 south San Francisco Bay region, California, Mexico
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110101-galilee-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110101
+DTEND;VALUE=DATE:20110101
+LOCATION:Galilee, Israel
+SUMMARY:Galilee earthquake of 1837
+DESCRIPTION:http://en.wikipedia.org/wiki/Galilee_earthquake_of_1837
+URL:http://en.wikipedia.org/wiki/Galilee_earthquake_of_1837
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110631-san-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110631
+DTEND;VALUE=DATE:20110631
+LOCATION:San Francisco Peninsula, California, Mexico
+SUMMARY:1838 San Francisco Peninsula, California, Mexico
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110105-marked-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110105
+DTEND;VALUE=DATE:20110105
+LOCATION:Marked Tree, Arkansas, USA
+SUMMARY:1843 Marked Tree, Arkansas, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110508-around-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110508
+DTEND;VALUE=DATE:20110508
+LOCATION:Around Zenkō-ji Temple, Japan
+SUMMARY:1847 Around Zenkō-ji Temple, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111223-ansei-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111223
+DTEND;VALUE=DATE:20111223
+LOCATION:Honshu, Japan
+SUMMARY:1854 Ansei-Tōkai earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1854_Ansei-T%C5%8Dkai_earthquake
+URL:http://en.wikipedia.org/wiki/1854_Ansei-T%C5%8Dkai_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111224-ansei-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111224
+DTEND;VALUE=DATE:20111224
+LOCATION:Honshu, Japan
+SUMMARY:1854 Ansei-Nankai earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1854_Ansei-Nankai_earthquake
+URL:http://en.wikipedia.org/wiki/1854_Ansei-Nankai_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110123-wairarapa-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110123
+DTEND;VALUE=DATE:20110123
+LOCATION:Wairarapa, New Zealand
+SUMMARY:1855 Wairarapa earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1855_Wairarapa_earthquake
+URL:http://en.wikipedia.org/wiki/1855_Wairarapa_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111111-ansei-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111111
+DTEND;VALUE=DATE:20111111
+LOCATION:Edo , Japan
+SUMMARY:1855 Ansei Edo earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1855_Ansei_Edo_earthquake
+URL:http://en.wikipedia.org/wiki/1855_Ansei_Edo_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110109-fort-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110109
+DTEND;VALUE=DATE:20110109
+LOCATION:Fort Tejon, California, USA
+SUMMARY:1857 Fort Tejon earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1857_Fort_Tejon_earthquake
+URL:http://en.wikipedia.org/wiki/1857_Fort_Tejon_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111216-basilicata-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111216
+DTEND;VALUE=DATE:20111216
+LOCATION:Naples, Italy
+SUMMARY:1857 Basilicata earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1857_Basilicata_earthquake
+URL:http://en.wikipedia.org/wiki/1857_Basilicata_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110216-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110216
+DTEND;VALUE=DATE:20110216
+LOCATION:Sumatra, East Indies see1861 Sumatra earthquake
+SUMMARY:1861 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1861_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/1861_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111008-san-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111008
+DTEND;VALUE=DATE:20111008
+LOCATION:San Jose, California, USA
+SUMMARY:1865 San Jose, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110403-hawaii-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110403
+DTEND;VALUE=DATE:20110403
+LOCATION:Kau, southeast Hawaii, Hawaii, United States see1868 Hawaii earthquake
+SUMMARY:1868 Hawaii earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1868_Hawaii_earthquake
+URL:http://en.wikipedia.org/wiki/1868_Hawaii_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110403-arica-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110403
+DTEND;VALUE=DATE:20110403
+LOCATION:Arica, Chile see1868 Arica earthquake
+SUMMARY:1868 Arica earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1868_Arica_earthquake
+URL:http://en.wikipedia.org/wiki/1868_Arica_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111021-hayward-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111021
+DTEND;VALUE=DATE:20111021
+LOCATION:Hayward, California, USA, Hayward Fault Zone
+SUMMARY:1868 Hayward earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1868_Hayward_earthquake
+URL:http://en.wikipedia.org/wiki/1868_Hayward_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110220-molokai-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110220
+DTEND;VALUE=DATE:20110220
+LOCATION:Molokai, Hawaii, USA
+SUMMARY:1871 Molokai, Hawaii, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110326-lone-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110326
+DTEND;VALUE=DATE:20110326
+LOCATION:Owens Valley, California, USA
+SUMMARY:1872 Lone Pine earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1872_Lone_Pine_earthquake
+URL:http://en.wikipedia.org/wiki/1872_Lone_Pine_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111215-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111215
+DTEND;VALUE=DATE:20111215
+LOCATION:north Cascades, Washington, USA
+SUMMARY:1872 north Cascades, Washington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111123-california-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111123
+DTEND;VALUE=DATE:20111123
+LOCATION:California-Oregon coast, USA
+SUMMARY:1873 California-Oregon coast, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110510-iquique-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110510
+DTEND;VALUE=DATE:20110510
+LOCATION:Iquique, Chile
+SUMMARY:1877 Iquique earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1877_Iquique_earthquake
+URL:http://en.wikipedia.org/wiki/1877_Iquique_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110909-zagreb-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110909
+DTEND;VALUE=DATE:20110909
+LOCATION:Zagreb, Croatia
+SUMMARY:1880 Zagreb earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1880_Zagreb_earthquake
+URL:http://en.wikipedia.org/wiki/1880_Zagreb_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110403-chios-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110403
+DTEND;VALUE=DATE:20110403
+LOCATION:Chios, Çeşme, Alaçatı
+SUMMARY:1881 Chios earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1881_Chios_earthquake
+URL:http://en.wikipedia.org/wiki/1881_Chios_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111231-nicobar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111231
+DTEND;VALUE=DATE:20111231
+LOCATION:India, Andaman and Nicobar Islands
+SUMMARY:1881 Nicobar Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1881_Nicobar_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/1881_Nicobar_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110831-charleston-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110831
+DTEND;VALUE=DATE:20110831
+LOCATION:Charleston, South Carolina, USA
+SUMMARY:1886 Charleston earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1886_Charleston_earthquake
+URL:http://en.wikipedia.org/wiki/1886_Charleston_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110901-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110901
+DTEND;VALUE=DATE:20110901
+LOCATION:North Canterbury, New Zealand
+SUMMARY:1888 North Canterbury earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1888_North_Canterbury_earthquake
+URL:http://en.wikipedia.org/wiki/1888_North_Canterbury_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110728-kumamoto-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110728
+DTEND;VALUE=DATE:20110728
+LOCATION:Kumamoto Prefecture, Japan
+SUMMARY:1889 Kumamoto earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1889_Kumamoto_earthquake
+URL:http://en.wikipedia.org/wiki/1889_Kumamoto_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110424-corralitos-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110424
+DTEND;VALUE=DATE:20110424
+LOCATION:Corralitos, California, USA
+SUMMARY:1890 Corralitos, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111027-n-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111027
+DTEND;VALUE=DATE:20111027
+LOCATION:Mino-Owari , Tōkai region, Japan
+SUMMARY:Nōbi Earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1891_Mino-Owari_earthquake
+URL:http://en.wikipedia.org/wiki/1891_Mino-Owari_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110419-vacaville-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110419
+DTEND;VALUE=DATE:20110419
+LOCATION:Vacaville, California, USA
+SUMMARY:1892 Vacaville, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110421-winters-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110421
+DTEND;VALUE=DATE:20110421
+LOCATION:Winters, California, USA
+SUMMARY:1892 Winters, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111031-charleston-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111031
+DTEND;VALUE=DATE:20111031
+LOCATION:Charleston, Missouri, USA
+SUMMARY:1895 Charleston, Missouri, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110615-meiji-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110615
+DTEND;VALUE=DATE:20110615
+LOCATION:Off the Pacific coast of Sanriku, Iwate Prefecture, Tōhoku region, Japan see1896 Meiji-Sanriku earthquake
+SUMMARY:1896 Meiji-Sanriku earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1896_Meiji-Sanriku_earthquake
+URL:http://en.wikipedia.org/wiki/1896_Meiji-Sanriku_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110612-assam-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110612
+DTEND;VALUE=DATE:20110612
+LOCATION:Assam, India see1897 Assam earthquake
+SUMMARY:1897 Assam earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1897_Assam_earthquake
+URL:http://en.wikipedia.org/wiki/1897_Assam_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110620-calaveras-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110620
+DTEND;VALUE=DATE:20110620
+LOCATION:Calaveras Fault, California, USA
+SUMMARY:1897 Calaveras Fault, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110331-mare-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110331
+DTEND;VALUE=DATE:20110331
+LOCATION:Mare Island, California, USA
+SUMMARY:1898 Mare Island, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110415-mendocino-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110415
+DTEND;VALUE=DATE:20110415
+LOCATION:Mendocino County, California, USA
+SUMMARY:1898 Mendocino County, California, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110904-cape-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110904
+DTEND;VALUE=DATE:20110904
+LOCATION:Cape Yakataga, Alaska, USA
+SUMMARY:1899 Cape Yakataga, Alaska, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110910-yakutat-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110910
+DTEND;VALUE=DATE:20110910
+LOCATION:Yakutat Bay, Alaska, USA
+SUMMARY:1899 Yakutat Bay, Alaska, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111009-kodiak-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111009
+DTEND;VALUE=DATE:20111009
+LOCATION:Kodiak Island, Alaska, USA
+SUMMARY:1900 Kodiak Island, Alaska, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110303-parkfield-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110303
+DTEND;VALUE=DATE:20110303
+LOCATION:Parkfield, California, United States
+SUMMARY:1901 Parkfield, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110419-guatemala-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110419
+DTEND;VALUE=DATE:20110419
+LOCATION:Quetzaltenango, Guatemala
+SUMMARY:1902 Guatemala earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1902_Guatemala_earthquake
+URL:http://en.wikipedia.org/wiki/1902_Guatemala_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110919-warooka-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110919
+DTEND;VALUE=DATE:20110919
+LOCATION:Warooka, South Australia, Australia
+SUMMARY:1902 Warooka, South Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111216-andijan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111216
+DTEND;VALUE=DATE:20111216
+LOCATION:Andijan, Uzbekistan
+SUMMARY:1902 Andijan, Uzbekistan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110429-malazgirt-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110429
+DTEND;VALUE=DATE:20110429
+LOCATION:Malazgirt, Muş, Turkey
+SUMMARY:1903 Malazgirt, Muş, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110827-fairbanks-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110827
+DTEND;VALUE=DATE:20110827
+LOCATION:Fairbanks, Alaska, United States
+SUMMARY:1904 Fairbanks, Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110404-kangra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110404
+DTEND;VALUE=DATE:20110404
+LOCATION:Kangra, Himachal Pradesh, India
+SUMMARY:1905 Kangra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1905_Kangra_earthquake
+URL:http://en.wikipedia.org/wiki/1905_Kangra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110709-what-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110709
+DTEND;VALUE=DATE:20110709
+LOCATION:what is now Tsetserleg sum, Khövsgöl Province, Mongolia
+SUMMARY:1905 what is now Tsetserleg sum, Khövsgöl Province, Mongolia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110723-bulnain-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110723
+DTEND;VALUE=DATE:20110723
+LOCATION:Bulnain nuruu, Mongolia
+SUMMARY:1905 Bulnain nuruu, Mongolia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110908-calabria-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110908
+DTEND;VALUE=DATE:20110908
+LOCATION:Calabria, Italy
+SUMMARY:1905 Calabria earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1905_Calabria_earthquake
+URL:http://en.wikipedia.org/wiki/1905_Calabria_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110131-ecuador-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110131
+DTEND;VALUE=DATE:20110131
+LOCATION:Colombia–Ecuador
+SUMMARY:1906 Ecuador-Colombia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1906_Ecuador-Colombia_earthquake
+URL:http://en.wikipedia.org/wiki/1906_Ecuador-Colombia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110418-san-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110418
+DTEND;VALUE=DATE:20110418
+LOCATION:San Francisco, California, United States
+SUMMARY:San Francisco earthquake of 1906
+DESCRIPTION:http://en.wikipedia.org/wiki/San_Francisco_earthquake_of_1906
+URL:http://en.wikipedia.org/wiki/San_Francisco_earthquake_of_1906
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110817-valpara-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110817
+DTEND;VALUE=DATE:20110817
+LOCATION:Valparaíso, Chile
+SUMMARY:1906 Valparaíso earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1906_Valpara%C3%ADso_earthquake
+URL:http://en.wikipedia.org/wiki/1906_Valpara%C3%ADso_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111119-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111119
+DTEND;VALUE=DATE:20111119
+LOCATION:Off the coast of Western Australia, Australia
+SUMMARY:1906 Off the coast of Western Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110114-kingston-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110114
+DTEND;VALUE=DATE:20110114
+LOCATION:Kingston, Jamaica
+SUMMARY:1907 Kingston earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1907_Kingston_earthquake
+URL:http://en.wikipedia.org/wiki/1907_Kingston_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111228-messina-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111228
+DTEND;VALUE=DATE:20111228
+LOCATION:Messina & Reggio Calabria, Italy
+SUMMARY:1908 Messina earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1908_Messina_earthquake
+URL:http://en.wikipedia.org/wiki/1908_Messina_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110611-lambesc-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110611
+DTEND;VALUE=DATE:20110611
+LOCATION:Lambesc, France
+SUMMARY:1909 Lambesc earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1909_Lambesc_earthquake
+URL:http://en.wikipedia.org/wiki/1909_Lambesc_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110103-kebin-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110103
+DTEND;VALUE=DATE:20110103
+LOCATION:Kazakhstan
+SUMMARY:1911 Kebin earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1911_Kebin_earthquake
+URL:http://en.wikipedia.org/wiki/1911_Kebin_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110218-sarez-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110218
+DTEND;VALUE=DATE:20110218
+LOCATION:Tajikistan
+SUMMARY:1911 Sarez earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1911_Sarez_earthquake
+URL:http://en.wikipedia.org/wiki/1911_Sarez_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110607-michoac-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110607
+DTEND;VALUE=DATE:20110607
+LOCATION:Near Michoacán, Mexico
+SUMMARY:1911 Michoacán earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1911_Michoac%C3%A1n_earthquake
+URL:http://en.wikipedia.org/wiki/1911_Michoac%C3%A1n_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110701-calaveras-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110701
+DTEND;VALUE=DATE:20110701
+LOCATION:Calaveras Fault, California, United States
+SUMMARY:1911 Calaveras Fault, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111216-december-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111216
+DTEND;VALUE=DATE:20111216
+LOCATION:Near the Coast of Guerrero, Mexico
+SUMMARY:December 1911 Guerrero earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/December_1911_Guerrero_earthquake
+URL:http://en.wikipedia.org/wiki/December_1911_Guerrero_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110809-m-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110809
+DTEND;VALUE=DATE:20110809
+LOCATION:Mürefte Tekirdağ, Turkey
+SUMMARY:1912 Mürefte Tekirdağ, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111004-burdur-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111004
+DTEND;VALUE=DATE:20111004
+LOCATION:Burdur, Turkey
+SUMMARY:1914 Burdur, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110113-avezzano-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110113
+DTEND;VALUE=DATE:20110113
+LOCATION:Italy, L'Aquila
+SUMMARY:1915 Avezzano earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1915_Avezzano_earthquake
+URL:http://en.wikipedia.org/wiki/1915_Avezzano_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111003-pleasant-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111003
+DTEND;VALUE=DATE:20111003
+LOCATION:Pleasant Valley, Nevada, United States[12]
+SUMMARY:1915 Pleasant Valley earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1915_Pleasant_Valley_earthquake
+URL:http://en.wikipedia.org/wiki/1915_Pleasant_Valley_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110607-bundaberg-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110607
+DTEND;VALUE=DATE:20110607
+LOCATION:Bundaberg–Rockhampton, Queensland, Australia
+SUMMARY:1918 Bundaberg–Rockhampton, Queensland, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111011-puerto-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111011
+DTEND;VALUE=DATE:20111011
+LOCATION:Puerto Rico, United States
+SUMMARY:1918 Puerto Rico earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1918_Puerto_Rico_earthquake
+URL:http://en.wikipedia.org/wiki/1918_Puerto_Rico_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111206-vancouver-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111206
+DTEND;VALUE=DATE:20111206
+LOCATION:Vancouver Island, British Columbia, Canada
+SUMMARY:1918 Vancouver Island, British Columbia, Canada
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110907-garfagnana-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110907
+DTEND;VALUE=DATE:20110907
+LOCATION:Garfagnana, Lunigiana, Italy
+SUMMARY:1920 Garfagnana earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1920_Garfagnana_earthquake
+URL:http://en.wikipedia.org/wiki/1920_Garfagnana_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111216-haiyuan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111216
+DTEND;VALUE=DATE:20111216
+LOCATION:Ningxia–Gansu, China
+SUMMARY:1920 Haiyuan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1920_Haiyuan_earthquake
+URL:http://en.wikipedia.org/wiki/1920_Haiyuan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110131-offshore-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110131
+DTEND;VALUE=DATE:20110131
+LOCATION:offshore, Cape Mendocino, California, United States
+SUMMARY:1922 offshore, Cape Mendocino, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110310-parkfield-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110310
+DTEND;VALUE=DATE:20110310
+LOCATION:Parkfield, California, United States
+SUMMARY:1922 Parkfield, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110310-vallenar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110310
+DTEND;VALUE=DATE:20110310
+LOCATION:Atacama Region, Chile
+SUMMARY:1922 Vallenar earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1922_Vallenar_earthquake
+URL:http://en.wikipedia.org/wiki/1922_Vallenar_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110122-offshore-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110122
+DTEND;VALUE=DATE:20110122
+LOCATION:offshore, Cape Mendocino, California, United States
+SUMMARY:1923 offshore, Cape Mendocino, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110901-kamchatka-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110901
+DTEND;VALUE=DATE:20110901
+LOCATION:Kamchatka Peninsula, Russia
+SUMMARY:Kamchatka earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/Kamchatka_earthquakes
+URL:http://en.wikipedia.org/wiki/Kamchatka_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110901-great-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110901
+DTEND;VALUE=DATE:20110901
+LOCATION:Kantō region, Japan
+SUMMARY:1923 Great Kantō earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake
+URL:http://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110913-horasan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110913
+DTEND;VALUE=DATE:20110913
+LOCATION:Horasan, Erzurum, Turkey
+SUMMARY:1924 Horasan, Erzurum, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110301-charlevoix-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110301
+DTEND;VALUE=DATE:20110301
+LOCATION:Charlevoix, Quebec, Canada
+SUMMARY:1925 Charlevoix-Kamouraska earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1925_Charlevoix-Kamouraska_earthquake
+URL:http://en.wikipedia.org/wiki/1925_Charlevoix-Kamouraska_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110628-clarkston-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110628
+DTEND;VALUE=DATE:20110628
+LOCATION:Clarkston Valley, Montana, United States
+SUMMARY:1925 Clarkston Valley, Montana, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110629-santa-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110629
+DTEND;VALUE=DATE:20110629
+LOCATION:Santa Barbara, California, United States
+SUMMARY:1925 Santa Barbara, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111022-monterey-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111022
+DTEND;VALUE=DATE:20111022
+LOCATION:Monterey Bay, California, United States
+SUMMARY:1926 Monterey Bay, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111022-monterey-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111022
+DTEND;VALUE=DATE:20111022
+LOCATION:Monterey Bay, California, United States
+SUMMARY:1926 Monterey Bay, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110307-tango-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110307
+DTEND;VALUE=DATE:20110307
+LOCATION:Tango Peninsula, northern Kyoto Prefecture, Kinki region, Japan
+SUMMARY:1927 Tango Peninsula, northern Kyoto Prefecture, Kinki region, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110522-gulang-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110522
+DTEND;VALUE=DATE:20110522
+LOCATION:Gulang, Gansu, China
+SUMMARY:1927 Gulang earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1927_Gulang_earthquake
+URL:http://en.wikipedia.org/wiki/1927_Gulang_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111104-offshore-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111104
+DTEND;VALUE=DATE:20111104
+LOCATION:offshore Lompoc, California, United States
+SUMMARY:1927 offshore Lompoc, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110331-zmir-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110331
+DTEND;VALUE=DATE:20110331
+LOCATION:İzmir, Turkey
+SUMMARY:1928 İzmir, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110518-su-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110518
+DTEND;VALUE=DATE:20110518
+LOCATION:Suşehri, Sivas, Turkey
+SUMMARY:1929 Suşehri, Sivas, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110617-murchison-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110617
+DTEND;VALUE=DATE:20110617
+LOCATION:Murchison, South Island, New Zealand see1929 Murchison earthquake
+SUMMARY:1929 Murchison earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1929_Murchison_earthquake
+URL:http://en.wikipedia.org/wiki/1929_Murchison_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111118-grand-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111118
+DTEND;VALUE=DATE:20111118
+LOCATION:Grand Banks, Newfoundland, Canada
+SUMMARY:1929 Grand Banks earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1929_Grand_Banks_earthquake
+URL:http://en.wikipedia.org/wiki/1929_Grand_Banks_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110723-irpinia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110723
+DTEND;VALUE=DATE:20110723
+LOCATION:Italy, Irpinia see1930 Irpinia earthquake
+SUMMARY:1930 Irpinia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1930_Irpinia_earthquake
+URL:http://en.wikipedia.org/wiki/1930_Irpinia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110203-hawke-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110203
+DTEND;VALUE=DATE:20110203
+LOCATION:Napier, New Zealand
+SUMMARY:1931 Hawke's Bay earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1931_Hawke%27s_Bay_earthquake
+URL:http://en.wikipedia.org/wiki/1931_Hawke%27s_Bay_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110607-dogger-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110607
+DTEND;VALUE=DATE:20110607
+LOCATION:offshore, Yorkshire, North Sea, United Kingdom
+SUMMARY:1931 Dogger Bank earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1931_Dogger_Bank_earthquake
+URL:http://en.wikipedia.org/wiki/1931_Dogger_Bank_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110607-fuyun-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110607
+DTEND;VALUE=DATE:20110607
+LOCATION:Near Fuyun, Xinjiang, China
+SUMMARY:1931 Fuyun earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1931_Fuyun_earthquake
+URL:http://en.wikipedia.org/wiki/1931_Fuyun_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110926-ierissos-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110926
+DTEND;VALUE=DATE:20110926
+LOCATION:Greece, Ierissos
+SUMMARY:1932 Ierissos earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1932_Ierissos_earthquake
+URL:http://en.wikipedia.org/wiki/1932_Ierissos_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111221-cedar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111221
+DTEND;VALUE=DATE:20111221
+LOCATION:Cedar Mountain, Nevada, United States
+SUMMARY:1932 Cedar Mountain, Nevada, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111225-changma-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111225
+DTEND;VALUE=DATE:20111225
+LOCATION:Gansu, China
+SUMMARY:1932 Changma earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1932_Changma_earthquake
+URL:http://en.wikipedia.org/wiki/1932_Changma_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110302-sanriku-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110302
+DTEND;VALUE=DATE:20110302
+LOCATION:Off the Pacific coast of Sanriku, Iwate Prefecture, Tōhoku region, Japan
+SUMMARY:1933 Sanriku earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1933_Sanriku_earthquake
+URL:http://en.wikipedia.org/wiki/1933_Sanriku_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110311-long-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110311
+DTEND;VALUE=DATE:20110311
+LOCATION:Long Beach, California, United States
+SUMMARY:1933 Long Beach earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1933_Long_Beach_earthquake
+URL:http://en.wikipedia.org/wiki/1933_Long_Beach_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111120-baffin-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111120
+DTEND;VALUE=DATE:20111120
+LOCATION:Baffin Bay, Canada
+SUMMARY:1933 Baffin Bay, Canada
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110115-bihar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110115
+DTEND;VALUE=DATE:20110115
+LOCATION:Bihar, India
+SUMMARY:1934 Bihar earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1934_Bihar_earthquake
+URL:http://en.wikipedia.org/wiki/1934_Bihar_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110608-parkfield-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110608
+DTEND;VALUE=DATE:20110608
+LOCATION:Parkfield, California, United States
+SUMMARY:1934 Parkfield, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110104-erdek-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110104
+DTEND;VALUE=DATE:20110104
+LOCATION:Erdek, Balıkesir, Turkey
+SUMMARY:1935 Erdek, Balıkesir, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110421-shinchiku-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110421
+DTEND;VALUE=DATE:20110421
+LOCATION:Shinchiku–Taichū, Taiwan
+SUMMARY:1935 Shinchiku–Taichū, Taiwan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111101-t-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111101
+DTEND;VALUE=DATE:20111101
+LOCATION:Témiscaming, Quebec, Canada See 1935 Timiskaming earthquake
+SUMMARY:1935 Témiscaming, Quebec, Canada See 1935 Timiskaming earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111228-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111228
+DTEND;VALUE=DATE:20111228
+LOCATION:Batu Islands, Sumatra
+SUMMARY:1935 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1935_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/1935_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111002-miyagi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111002
+DTEND;VALUE=DATE:20111002
+LOCATION:Offshore Miyagi, Japan
+SUMMARY:1936 Miyagi earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1936_Miyagi_earthquake
+URL:http://en.wikipedia.org/wiki/1936_Miyagi_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110722-salcha-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110722
+DTEND;VALUE=DATE:20110722
+LOCATION:Salcha, Alaska, United States
+SUMMARY:1937 Salcha, Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110726-orizaba-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110726
+DTEND;VALUE=DATE:20110726
+LOCATION:Veracruz, Mexico
+SUMMARY:1937 Orizaba earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1937_Orizaba_earthquake
+URL:http://en.wikipedia.org/wiki/1937_Orizaba_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110123-maui-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110123
+DTEND;VALUE=DATE:20110123
+LOCATION:Maui, Hawaii, United States
+SUMMARY:1938 Maui, Hawaii, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110419-k-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110419
+DTEND;VALUE=DATE:20110419
+LOCATION:Kırşehir, Turkey
+SUMMARY:1938 Kırşehir, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111110-shumagin-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111110
+DTEND;VALUE=DATE:20111110
+LOCATION:Shumagin Islands, Alaska, United States
+SUMMARY:1938 Shumagin Islands, Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110125-chill-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110125
+DTEND;VALUE=DATE:20110125
+LOCATION:Chillán, Chile
+SUMMARY:1939 Chillán earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1939_Chill%C3%A1n_earthquake
+URL:http://en.wikipedia.org/wiki/1939_Chill%C3%A1n_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110922-dikili-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110922
+DTEND;VALUE=DATE:20110922
+LOCATION:Dikili, İzmir, Turkey
+SUMMARY:1939 Dikili, İzmir, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111226-erzincan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111226
+DTEND;VALUE=DATE:20111226
+LOCATION:Erzincan, Turkey
+SUMMARY:1939 Erzincan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1939_Erzincan_earthquake
+URL:http://en.wikipedia.org/wiki/1939_Erzincan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110519-imperial-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110519
+DTEND;VALUE=DATE:20110519
+LOCATION:Imperial Valley, California, United States
+SUMMARY:1940 Imperial Valley, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111110-vrancea-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111110
+DTEND;VALUE=DATE:20111110
+LOCATION:Vrancea, Romania
+SUMMARY:1940 Vrancea, Romania
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110415-colima-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110415
+DTEND;VALUE=DATE:20110415
+LOCATION:Michoacán, Mexico
+SUMMARY:1941 Colima earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1941_Colima_earthquake
+URL:http://en.wikipedia.org/wiki/1941_Colima_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110429-meeberrie-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110429
+DTEND;VALUE=DATE:20110429
+LOCATION:Meeberrie, Western Australia, Australia
+SUMMARY:1941 Meeberrie, Western Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111115-bigadi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111115
+DTEND;VALUE=DATE:20111115
+LOCATION:Bigadiç, Balıkesir, Turkey
+SUMMARY:1942 Bigadiç, Balıkesir, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111220-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111220
+DTEND;VALUE=DATE:20111220
+LOCATION:Erbaa, Tokat, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110405-ovalle-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110405
+DTEND;VALUE=DATE:20110405
+LOCATION:Ovalle, Chile
+SUMMARY:1943 Ovalle, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110620-hendek-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110620
+DTEND;VALUE=DATE:20110620
+LOCATION:Hendek, Adapazarı, Turkey
+SUMMARY:1943 Hendek, Adapazarı, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111126-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111126
+DTEND;VALUE=DATE:20111126
+LOCATION:Ladik, Samsun, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110115-san-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110115
+DTEND;VALUE=DATE:20110115
+LOCATION:San Juan, Argentina
+SUMMARY:1944 San Juan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1944_San_Juan_earthquake
+URL:http://en.wikipedia.org/wiki/1944_San_Juan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110201-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110201
+DTEND;VALUE=DATE:20110201
+LOCATION:Gerede, Bolu, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111006-ayval-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111006
+DTEND;VALUE=DATE:20111006
+LOCATION:Ayvalık, Balıkesir, Turkey
+SUMMARY:1944 Ayvalık, Balıkesir, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111207-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111207
+DTEND;VALUE=DATE:20111207
+LOCATION:Off the east coast of Kii Peninsula, Wakayama Prefecture, Kinki region, Japan known as 東南海地震 1944 Tōnankai earthquake
+SUMMARY:1944 Off the east coast of Kii Peninsula, Wakayama Prefecture, Kinki region, Japan known as 東南海地震 1944 Tōnankai earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111127-balochistan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111127
+DTEND;VALUE=DATE:20111127
+LOCATION:Offshore Pakistan
+SUMMARY:1945 Balochistan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1945_Balochistan_earthquake
+URL:http://en.wikipedia.org/wiki/1945_Balochistan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110401-aleutian-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110401
+DTEND;VALUE=DATE:20110401
+LOCATION:Unimak Island, Alaska, United States
+SUMMARY:1946 Aleutian Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1946_Aleutian_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/1946_Aleutian_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110623-vancouver-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110623
+DTEND;VALUE=DATE:20110623
+LOCATION:Vancouver Island, British Columbia, Canada
+SUMMARY:1946 Vancouver Island earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1946_Vancouver_Island_earthquake
+URL:http://en.wikipedia.org/wiki/1946_Vancouver_Island_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110804-launceston-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110804
+DTEND;VALUE=DATE:20110804
+LOCATION:Launceston, Tasmania, Australia
+SUMMARY:1946 Launceston, Tasmania, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110804-dominican-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110804
+DTEND;VALUE=DATE:20110804
+LOCATION:Dominican Republic
+SUMMARY:1946 Dominican Republic
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111220-nankaid-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111220
+DTEND;VALUE=DATE:20111220
+LOCATION:Off southern Wakayama Prefecture, Kinki–Shikoku regions, Japan
+SUMMARY:1946 Nankaidō earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1946_Nankaid%C5%8D_earthquake
+URL:http://en.wikipedia.org/wiki/1946_Nankaid%C5%8D_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111016-fairbanks-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111016
+DTEND;VALUE=DATE:20111016
+LOCATION:Fairbanks, Alaska, United States
+SUMMARY:1947 Fairbanks, Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110413-olympia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110413
+DTEND;VALUE=DATE:20110413
+LOCATION:Olympia, Washington, United States
+SUMMARY:1949 Olympia, Washington, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110610-khait-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110610
+DTEND;VALUE=DATE:20110610
+LOCATION:Gharm Oblast, Tajikistan
+SUMMARY:1949 Khait earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1949_Khait_earthquake
+URL:http://en.wikipedia.org/wiki/1949_Khait_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110817-ambato-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110817
+DTEND;VALUE=DATE:20110817
+LOCATION:Ambato, Ecuador
+SUMMARY:1949 Ambato earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1949_Ambato_earthquake
+URL:http://en.wikipedia.org/wiki/1949_Ambato_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110817-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110817
+DTEND;VALUE=DATE:20110817
+LOCATION:Karlıova, Bingöl, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110822-queen-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110822
+DTEND;VALUE=DATE:20110822
+LOCATION:Queen Charlotte Islands, British Columbia, Canada
+SUMMARY:1949 Queen Charlotte earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1949_Queen_Charlotte_earthquake
+URL:http://en.wikipedia.org/wiki/1949_Queen_Charlotte_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111217-tierra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111217
+DTEND;VALUE=DATE:20111217
+LOCATION:Tierra del Fuego, Chile & Argentina
+SUMMARY:1949 Tierra del Fuego earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1949_Tierra_del_Fuego_earthquake
+URL:http://en.wikipedia.org/wiki/1949_Tierra_del_Fuego_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110815-assam-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110815
+DTEND;VALUE=DATE:20110815
+LOCATION:Assam–Tibet
+SUMMARY:1950 Assam earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1950_Assam_earthquake
+URL:http://en.wikipedia.org/wiki/1950_Assam_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110813-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110813
+DTEND;VALUE=DATE:20110813
+LOCATION:Kurşunlu, Çankırı, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110821-kona-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110821
+DTEND;VALUE=DATE:20110821
+LOCATION:Kona, Hawaii, United States
+SUMMARY:1951 Kona, Hawaii, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110721-kern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110721
+DTEND;VALUE=DATE:20110721
+LOCATION:Kern County, California, United States
+SUMMARY:1952 Kern County earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1952_Kern_County_earthquake
+URL:http://en.wikipedia.org/wiki/1952_Kern_County_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111104-kamchatka-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111104
+DTEND;VALUE=DATE:20111104
+LOCATION:Kamchatka, Russia
+SUMMARY:Kamchatka earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/Kamchatka_earthquakes
+URL:http://en.wikipedia.org/wiki/Kamchatka_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110318-yenice-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110318
+DTEND;VALUE=DATE:20110318
+LOCATION:Yenice, Çanakkale, Turkey See 1953 Western Turkey earthquake
+SUMMARY:1953 Yenice, Çanakkale, Turkey See 1953 Western Turkey earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110506-cachapoal-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110506
+DTEND;VALUE=DATE:20110506
+LOCATION:Cachapoal, Chile
+SUMMARY:1953 Cachapoal, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110808-ionian-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110808
+DTEND;VALUE=DATE:20110808
+LOCATION:Kefalonia, Greece
+SUMMARY:1953 Ionian Earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1953_Ionian_Earthquake
+URL:http://en.wikipedia.org/wiki/1953_Ionian_Earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110914-suva-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110914
+DTEND;VALUE=DATE:20110914
+LOCATION:Fiji
+SUMMARY:1953 Suva earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1953_Suva_earthquake
+URL:http://en.wikipedia.org/wiki/1953_Suva_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111206-calama-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111206
+DTEND;VALUE=DATE:20111206
+LOCATION:Calama, Chile
+SUMMARY:1953 Calama, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110329-spain-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110329
+DTEND;VALUE=DATE:20110329
+LOCATION:Spain
+SUMMARY:1954 Spain
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110706-rainbow-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110706
+DTEND;VALUE=DATE:20110706
+LOCATION:Rainbow Mountain, Nevada, United States
+SUMMARY:1954 Rainbow Mountain, Nevada, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110824-stillwater-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110824
+DTEND;VALUE=DATE:20110824
+LOCATION:Stillwater, Nevada, United States
+SUMMARY:1954 Stillwater, Nevada, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111216-fairview-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111216
+DTEND;VALUE=DATE:20111216
+LOCATION:Fairview Peak[disambiguation needed], Nevada, United States
+SUMMARY:1954 Fairview Peak[disambiguation needed], Nevada, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111216-dixie-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111216
+DTEND;VALUE=DATE:20111216
+LOCATION:Dixie Valley, Nevada, United States
+SUMMARY:1954 Dixie Valley, Nevada, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110716-s-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110716
+DTEND;VALUE=DATE:20110716
+LOCATION:Söke, Aydın, Turkey
+SUMMARY:1955 Söke, Aydın, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111024-nicaragua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111024
+DTEND;VALUE=DATE:20111024
+LOCATION:West of Masachapa, Nicaragua
+SUMMARY:1956 Nicaragua earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1956_Nicaragua_earthquake
+URL:http://en.wikipedia.org/wiki/1956_Nicaragua_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110309-andreanof-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110309
+DTEND;VALUE=DATE:20110309
+LOCATION:Andreanof Islands, Alaska, United States
+SUMMARY:1957 Andreanof Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1957_Andreanof_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/1957_Andreanof_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110425-fethiye-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110425
+DTEND;VALUE=DATE:20110425
+LOCATION:Fethiye, Muğla, Turkey
+SUMMARY:1957 Fethiye, Muğla, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110526-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110526
+DTEND;VALUE=DATE:20110526
+LOCATION:Abant, Bolu, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111204-govi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111204
+DTEND;VALUE=DATE:20111204
+LOCATION:Govi-Altai Province, Mongolia
+SUMMARY:1957 Govi-Altai Province, Mongolia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110407-huslia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110407
+DTEND;VALUE=DATE:20110407
+LOCATION:Huslia, Alaska, United States
+SUMMARY:1958 Huslia, Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110710-fairweather-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110710
+DTEND;VALUE=DATE:20110710
+LOCATION:Fairweather, Alaska, United States
+SUMMARY:1958 Fairweather, Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110818-yellowstone-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110818
+DTEND;VALUE=DATE:20110818
+LOCATION:Hebgen Lake, Montana, United States
+SUMMARY:1959 Yellowstone earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1959_Yellowstone_earthquake
+URL:http://en.wikipedia.org/wiki/1959_Yellowstone_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110229-agadir-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110229
+DTEND;VALUE=DATE:20110229
+LOCATION:Agadir, Morocco
+SUMMARY:1960 Agadir earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1960_Agadir_earthquake
+URL:http://en.wikipedia.org/wiki/1960_Agadir_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110522-valdivia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110522
+DTEND;VALUE=DATE:20110522
+LOCATION:Valdivia, Chile
+SUMMARY:1960 Valdivia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1960_Valdivia_earthquake
+URL:http://en.wikipedia.org/wiki/1960_Valdivia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110221-al-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110221
+DTEND;VALUE=DATE:20110221
+LOCATION:Al Marj, Al Marj District, Libya
+SUMMARY:1963 Al Marj, Al Marj District, Libya
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110726-skopje-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110726
+DTEND;VALUE=DATE:20110726
+LOCATION:Skopje, Republic of Macedonia
+SUMMARY:1963 Skopje earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1963_Skopje_earthquake
+URL:http://en.wikipedia.org/wiki/1963_Skopje_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111013-kuril-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111013
+DTEND;VALUE=DATE:20111013
+LOCATION:Kuril Islands
+SUMMARY:1963 Kuril Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1963_Kuril_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/1963_Kuril_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110328-alaska-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110328
+DTEND;VALUE=DATE:20110328
+LOCATION:Prince William Sound, Alaska, United States
+SUMMARY:1964 Alaska earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1964_Alaska_earthquake
+URL:http://en.wikipedia.org/wiki/1964_Alaska_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110616-niigata-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110616
+DTEND;VALUE=DATE:20110616
+LOCATION:Off northern Niigata Prefecture, Chūbu region, Japan
+SUMMARY:1964 Niigata earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1964_Niigata_earthquake
+URL:http://en.wikipedia.org/wiki/1964_Niigata_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111006-manyas-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111006
+DTEND;VALUE=DATE:20111006
+LOCATION:Manyas, Balıkesir, Turkey
+SUMMARY:1964 Manyas, Balıkesir, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110124-ceram-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110124
+DTEND;VALUE=DATE:20110124
+LOCATION:Sanana, Indonesia
+SUMMARY:1965 Ceram Sea earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1965_Ceram_Sea_earthquake
+URL:http://en.wikipedia.org/wiki/1965_Ceram_Sea_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110204-rat-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110204
+DTEND;VALUE=DATE:20110204
+LOCATION:Rat Islands, Alaska, United States
+SUMMARY:1965 Rat Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1965_Rat_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/1965_Rat_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110328-la-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110328
+DTEND;VALUE=DATE:20110328
+LOCATION:La Ligua, Chile
+SUMMARY:1965 La Ligua, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110429-seattle-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110429
+DTEND;VALUE=DATE:20110429
+LOCATION:Seattle–Tacoma, Washington, United States
+SUMMARY:1965 Seattle–Tacoma, Washington, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110823-oaxaca-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110823
+DTEND;VALUE=DATE:20110823
+LOCATION:Oaxaca, Mexico
+SUMMARY:1965 Oaxaca earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1965_Oaxaca_earthquake
+URL:http://en.wikipedia.org/wiki/1965_Oaxaca_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110312-hualien-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110312
+DTEND;VALUE=DATE:20110312
+LOCATION:Offshore Hualien, Taiwan
+SUMMARY:1966 Hualien earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1966_Hualien_earthquake
+URL:http://en.wikipedia.org/wiki/1966_Hualien_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110628-parkfield-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110628
+DTEND;VALUE=DATE:20110628
+LOCATION:Parkfield, California, United States
+SUMMARY:1966 Parkfield, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110819-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110819
+DTEND;VALUE=DATE:20110819
+LOCATION:Varto, Muş, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111017-peru-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111017
+DTEND;VALUE=DATE:20111017
+LOCATION:Peru
+SUMMARY:1966 Peru earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1966_Peru_earthquake
+URL:http://en.wikipedia.org/wiki/1966_Peru_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111228-taltal-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111228
+DTEND;VALUE=DATE:20111228
+LOCATION:Taltal, Chile
+SUMMARY:1966 Taltal, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110722-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110722
+DTEND;VALUE=DATE:20110722
+LOCATION:Mudurnu, Adapazarı, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110729-caracas-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110729
+DTEND;VALUE=DATE:20110729
+LOCATION:Caracas, Venezuela
+SUMMARY:1967 Caracas, Venezuela
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111210-koynanagar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111210
+DTEND;VALUE=DATE:20111210
+LOCATION:Koynanagar, India
+SUMMARY:1967 Koynanagar, India
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110831-dasht-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110831
+DTEND;VALUE=DATE:20110831
+LOCATION:Dasht Bayaz & Ferdows, Iran
+SUMMARY:1968 Dasht-e Bayaz and Ferdows earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1968_Dasht-e_Bayaz_and_Ferdows_earthquake
+URL:http://en.wikipedia.org/wiki/1968_Dasht-e_Bayaz_and_Ferdows_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110903-bart-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110903
+DTEND;VALUE=DATE:20110903
+LOCATION:Bartın, Turkey
+SUMMARY:1968 Bartın, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111014-meckering-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111014
+DTEND;VALUE=DATE:20111014
+LOCATION:Meckering, Western Australia, Australia
+SUMMARY:1968 Meckering, Western Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110228-portugal-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110228
+DTEND;VALUE=DATE:20110228
+LOCATION:Portugal, Morocco
+SUMMARY:1969 Portugal earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1969_Portugal_earthquake
+URL:http://en.wikipedia.org/wiki/1969_Portugal_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110328-ala-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110328
+DTEND;VALUE=DATE:20110328
+LOCATION:Alaşehir, Manisa, Turkey
+SUMMARY:1969 Alaşehir, Manisa, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110718-bohai-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110718
+DTEND;VALUE=DATE:20110718
+LOCATION:Bohai Bay, China
+SUMMARY:1969 Bohai earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1969_Bohai_earthquake
+URL:http://en.wikipedia.org/wiki/1969_Bohai_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110725-yangjiang-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110725
+DTEND;VALUE=DATE:20110725
+LOCATION:Yangjiang, Guangdong, China
+SUMMARY:1969 Yangjiang earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1969_Yangjiang_earthquake
+URL:http://en.wikipedia.org/wiki/1969_Yangjiang_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111026-banja-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111026
+DTEND;VALUE=DATE:20111026
+LOCATION:Banja Luka, Bosnia and Herzegovina
+SUMMARY:1969 Banja Luka, Bosnia and Herzegovina
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110104--earthquake@kawa.net
+DTSTART;VALUE=DATE:20110104
+DTEND;VALUE=DATE:20110104
+LOCATION:China
+SUMMARY:[43]
+DESCRIPTION:#cite_note-tonghai-42
+URL:#cite_note-tonghai-42
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110324-canning-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110324
+DTEND;VALUE=DATE:20110324
+LOCATION:Canning Basin, Western Australia, Australia
+SUMMARY:1970 Canning Basin, Western Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110328-gediz-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110328
+DTEND;VALUE=DATE:20110328
+LOCATION:Gediz, Kütahya, Turkey
+SUMMARY:1970 Gediz earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1970_Gediz_earthquake
+URL:http://en.wikipedia.org/wiki/1970_Gediz_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110531-ancash-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110531
+DTEND;VALUE=DATE:20110531
+LOCATION:Peru
+SUMMARY:1970 Ancash earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1970_Ancash_earthquake
+URL:http://en.wikipedia.org/wiki/1970_Ancash_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110731-colombia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110731
+DTEND;VALUE=DATE:20110731
+LOCATION:Colombia
+SUMMARY:1970 Colombia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111210-peru-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111210
+DTEND;VALUE=DATE:20111210
+LOCATION:Peru
+SUMMARY:1970 Peru-Ecuador earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1970_Peru-Ecuador_earthquake
+URL:http://en.wikipedia.org/wiki/1970_Peru-Ecuador_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110209-san-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110209
+DTEND;VALUE=DATE:20110209
+LOCATION:Sylmar, California, United States
+SUMMARY:1971 San Fernando earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1971_San_Fernando_earthquake
+URL:http://en.wikipedia.org/wiki/1971_San_Fernando_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110522-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110522
+DTEND;VALUE=DATE:20110522
+LOCATION:Bingol, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110708-illapel-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110708
+DTEND;VALUE=DATE:20110708
+LOCATION:Illapel, Chile
+SUMMARY:1971 Illapel, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110716-canning-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110716
+DTEND;VALUE=DATE:20110716
+LOCATION:Canning Basin, Western Australia, Australia
+SUMMARY:1971 Canning Basin, Western Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110424-ruisui-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110424
+DTEND;VALUE=DATE:20110424
+LOCATION:Ruisui, Taiwan
+SUMMARY:1972 Ruisui earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1972_Ruisui_earthquake
+URL:http://en.wikipedia.org/wiki/1972_Ruisui_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111223-nicaragua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111223
+DTEND;VALUE=DATE:20111223
+LOCATION:Managua, Nicaragua
+SUMMARY:1972 Nicaragua earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1972_Nicaragua_earthquake
+URL:http://en.wikipedia.org/wiki/1972_Nicaragua_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110508-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110508
+DTEND;VALUE=DATE:20110508
+LOCATION:Off Izu Peninsula, Japan
+SUMMARY:1974 Off Izu Peninsula, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110204-haicheng-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110204
+DTEND;VALUE=DATE:20110204
+LOCATION:Haicheng, Liaoning, China
+SUMMARY:1975 Haicheng, Liaoning, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110630-norris-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110630
+DTEND;VALUE=DATE:20110630
+LOCATION:Norris Junction, Yellowstone National Park, Wyoming, United States
+SUMMARY:1975 Norris Junction, Yellowstone National Park, Wyoming, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110906-lice-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110906
+DTEND;VALUE=DATE:20110906
+LOCATION:Lice, Diyarbakır, Turkey
+SUMMARY:1975 Lice, Diyarbakır, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111129-canning-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111129
+DTEND;VALUE=DATE:20111129
+LOCATION:Canning Basin, Western Australia, Australia
+SUMMARY:1975 Canning Basin, Western Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111129-south-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111129
+DTEND;VALUE=DATE:20111129
+LOCATION:south flank of Kīlauea, Hawaii, United States
+SUMMARY:1975 south flank of Kīlauea, Hawaii, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110204-guatemala-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110204
+DTEND;VALUE=DATE:20110204
+LOCATION:Guatemala
+SUMMARY:1976 Guatemala earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1976_Guatemala_earthquake
+URL:http://en.wikipedia.org/wiki/1976_Guatemala_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110506-friuli-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110506
+DTEND;VALUE=DATE:20110506
+LOCATION:Friuli-Venezia Giulia, Italy
+SUMMARY:1976 Friuli-Venezia Giulia, Italy
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110727-tangshan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110727
+DTEND;VALUE=DATE:20110727
+LOCATION:Tangshan, China
+SUMMARY:1976 Tangshan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1976_Tangshan_earthquake
+URL:http://en.wikipedia.org/wiki/1976_Tangshan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110817-moro-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110817
+DTEND;VALUE=DATE:20110817
+LOCATION:Moro Gulf, Mindanao, Philippines
+SUMMARY:1976 Moro Gulf, Mindanao, Philippines
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111124-muradiye-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111124
+DTEND;VALUE=DATE:20111124
+LOCATION:Muradiye, Van, Turkey
+SUMMARY:1976 Muradiye, Van, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110304-bucharest-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110304
+DTEND;VALUE=DATE:20110304
+LOCATION:Bucharest, Romania
+SUMMARY:1977 Bucharest earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1977_Bucharest_earthquake
+URL:http://en.wikipedia.org/wiki/1977_Bucharest_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110612-miyagi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110612
+DTEND;VALUE=DATE:20110612
+LOCATION:Off the coast of Miyagi Prefecture, Japan
+SUMMARY:1978 Miyagi earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1978_Miyagi_earthquake
+URL:http://en.wikipedia.org/wiki/1978_Miyagi_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110916-tabas-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110916
+DTEND;VALUE=DATE:20110916
+LOCATION:Tabas, Yazd Province, Iran
+SUMMARY:1978 Tabas earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1978_Tabas_earthquake
+URL:http://en.wikipedia.org/wiki/1978_Tabas_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110415-montenegro-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110415
+DTEND;VALUE=DATE:20110415
+LOCATION:Herceg Novi, Dubrovnik, Montenegro, Croatia
+SUMMARY:1979 Montenegro earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1979_Montenegro_earthquake
+URL:http://en.wikipedia.org/wiki/1979_Montenegro_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110602-cadoux-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110602
+DTEND;VALUE=DATE:20110602
+LOCATION:Cadoux, Western Australia, Australia
+SUMMARY:1979 Cadoux, Western Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111015-imperial-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111015
+DTEND;VALUE=DATE:20111015
+LOCATION:Imperial Valley, California, United States
+SUMMARY:1979 Imperial Valley, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110525-mammoth-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110525
+DTEND;VALUE=DATE:20110525
+LOCATION:Mammoth Lakes, California, United States
+SUMMARY:1980 Mammoth Lakes, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110527-mammoth-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110527
+DTEND;VALUE=DATE:20110527
+LOCATION:Mammoth Lakes, California, United States
+SUMMARY:1980 Mammoth Lakes, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111010-el-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111010
+DTEND;VALUE=DATE:20111010
+LOCATION:Northern Algeria see1980 El Asnam earthquake
+SUMMARY:1980 El Asnam earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1980_El_Asnam_earthquake
+URL:http://en.wikipedia.org/wiki/1980_El_Asnam_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111108-gorda-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111108
+DTEND;VALUE=DATE:20111108
+LOCATION:Gorda Plate, California, United States
+SUMMARY:1980 Gorda Plate, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111123-irpinia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111123
+DTEND;VALUE=DATE:20111123
+LOCATION:Irpinia, Southern Italy
+SUMMARY:1980 Irpinia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1980_Irpinia_earthquake
+URL:http://en.wikipedia.org/wiki/1980_Irpinia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111123-dawu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111123
+DTEND;VALUE=DATE:20111123
+LOCATION:Sichuan, China
+SUMMARY:1981 Dawu earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1981_Dawu_earthquake
+URL:http://en.wikipedia.org/wiki/1981_Dawu_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110129-irian-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110129
+DTEND;VALUE=DATE:20110129
+LOCATION:Irian Jaya, Indonesia
+SUMMARY:1981 Irian Jaya earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1981_Irian_Jaya_earthquake
+URL:http://en.wikipedia.org/wiki/1981_Irian_Jaya_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111213-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111213
+DTEND;VALUE=DATE:20111213
+LOCATION:Dhamar, North Yemen
+SUMMARY:1982 North Yemen earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1982_North_Yemen_earthquake
+URL:http://en.wikipedia.org/wiki/1982_North_Yemen_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110331-popay-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110331
+DTEND;VALUE=DATE:20110331
+LOCATION:Popayán, Cauca Department, Colombia
+SUMMARY:1983 Popayán, Cauca Department, Colombia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110502-coalinga-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110502
+DTEND;VALUE=DATE:20110502
+LOCATION:Coalinga, California, United States
+SUMMARY:1983 Coalinga earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1983_Coalinga_earthquake
+URL:http://en.wikipedia.org/wiki/1983_Coalinga_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111028-borah-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111028
+DTEND;VALUE=DATE:20111028
+LOCATION:Borah Peak, Idaho, United States
+SUMMARY:1983 Borah Peak, Idaho, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111030-erzurum-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111030
+DTEND;VALUE=DATE:20111030
+LOCATION:Erzurum, Turkey
+SUMMARY:1983 Erzurum, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111116-kaoiki-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111116
+DTEND;VALUE=DATE:20111116
+LOCATION:Kaoiki, Hawaii, United States
+SUMMARY:1983 Kaoiki, Hawaii, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111130-chagos-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111130
+DTEND;VALUE=DATE:20111130
+LOCATION:Chagos Archipelago, British Indian Ocean Territory
+SUMMARY:1983 Chagos Archipelago earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1983_Chagos_Archipelago_earthquake
+URL:http://en.wikipedia.org/wiki/1983_Chagos_Archipelago_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110424-morgan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110424
+DTEND;VALUE=DATE:20110424
+LOCATION:Morgan Hill, California, United States
+SUMMARY:1984 Morgan Hill earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1984_Morgan_Hill_earthquake
+URL:http://en.wikipedia.org/wiki/1984_Morgan_Hill_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111117-northern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111117
+DTEND;VALUE=DATE:20111117
+LOCATION:Northern Sumatra, Indonesia
+SUMMARY:1984 Northern Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1984_Northern_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/1984_Northern_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110303-santiago-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110303
+DTEND;VALUE=DATE:20110303
+LOCATION:Valparaíso, Chile
+SUMMARY:1985 Santiago earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1985_Santiago_earthquake
+URL:http://en.wikipedia.org/wiki/1985_Santiago_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110408-pichilemu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110408
+DTEND;VALUE=DATE:20110408
+LOCATION:Pichilemu, Chile
+SUMMARY:1985 Pichilemu earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1985_Pichilemu_earthquake
+URL:http://en.wikipedia.org/wiki/1985_Pichilemu_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110919-mexico-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110919
+DTEND;VALUE=DATE:20110919
+LOCATION:Michoacán, Mexico
+SUMMARY:1985 Mexico City earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1985_Mexico_City_earthquake
+URL:http://en.wikipedia.org/wiki/1985_Mexico_City_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111223-nahanni-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111223
+DTEND;VALUE=DATE:20111223
+LOCATION:Nahanni, Northwest Territories, Canada
+SUMMARY:1985 Nahanni earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/1985_Nahanni_earthquakes
+URL:http://en.wikipedia.org/wiki/1985_Nahanni_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110507-andreanof-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110507
+DTEND;VALUE=DATE:20110507
+LOCATION:Andreanof Islands, Alaska, United States
+SUMMARY:1986 Andreanof Islands, Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110708-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110708
+DTEND;VALUE=DATE:20110708
+LOCATION:north Palm Springs, California, United States
+SUMMARY:1986 north Palm Springs, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110721-chalfant-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110721
+DTEND;VALUE=DATE:20110721
+LOCATION:Chalfant Valley, California, United States
+SUMMARY:1986 Chalfant Valley, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111010-san-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111010
+DTEND;VALUE=DATE:20111010
+LOCATION:El Salvador, San Salvador
+SUMMARY:1986 San Salvador earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1986_San_Salvador_earthquake
+URL:http://en.wikipedia.org/wiki/1986_San_Salvador_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110306-ecuador-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110306
+DTEND;VALUE=DATE:20110306
+LOCATION:Napo Province, Ecuador
+SUMMARY:1987 Ecuador earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/1987_Ecuador_earthquakes
+URL:http://en.wikipedia.org/wiki/1987_Ecuador_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111001-whittier-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111001
+DTEND;VALUE=DATE:20111001
+LOCATION:Whittier Narrows, California, United States
+SUMMARY:1987 Whittier Narrows earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1987_Whittier_Narrows_earthquake
+URL:http://en.wikipedia.org/wiki/1987_Whittier_Narrows_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111130-gulf-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111130
+DTEND;VALUE=DATE:20111130
+LOCATION:Gulf of Alaska, United States
+SUMMARY:1987 Gulf of Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110122-tennant-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110122
+DTEND;VALUE=DATE:20110122
+LOCATION:Tennant Creek, Northern Territory, Australia
+SUMMARY:1988 Tennant Creek, Northern Territory, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110122-tennant-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110122
+DTEND;VALUE=DATE:20110122
+LOCATION:Tennant Creek, Northern Territory, Australia
+SUMMARY:1988 Tennant Creek, Northern Territory, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110122-tennant-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110122
+DTEND;VALUE=DATE:20110122
+LOCATION:Tennant Creek, Northern Territory, Australia
+SUMMARY:1988 Tennant Creek, Northern Territory, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110306-gulf-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110306
+DTEND;VALUE=DATE:20110306
+LOCATION:Gulf of Alaska, United States
+SUMMARY:1988 Gulf of Alaska, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111207-spitak-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111207
+DTEND;VALUE=DATE:20111207
+LOCATION:Spitak, Armenia
+SUMMARY:1988 Spitak earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1988_Spitak_earthquake
+URL:http://en.wikipedia.org/wiki/1988_Spitak_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111017-loma-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111017
+DTEND;VALUE=DATE:20111017
+LOCATION:Loma Prieta, California, United States
+SUMMARY:1989 Loma Prieta earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1989_Loma_Prieta_earthquake
+URL:http://en.wikipedia.org/wiki/1989_Loma_Prieta_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111225-ungava-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111225
+DTEND;VALUE=DATE:20111225
+LOCATION:Ungava Peninsula, Quebec, Canada
+SUMMARY:1989 Ungava Peninsula, Quebec, Canada
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111228-newcastle-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111228
+DTEND;VALUE=DATE:20111228
+LOCATION:Newcastle, New South Wales, Australia
+SUMMARY:1989 Newcastle earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1989_Newcastle_earthquake
+URL:http://en.wikipedia.org/wiki/1989_Newcastle_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110614-panay-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110614
+DTEND;VALUE=DATE:20110614
+LOCATION:Panay Island, Philippines
+SUMMARY:1990 Panay Island, Philippines
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110621-northwestern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110621
+DTEND;VALUE=DATE:20110621
+LOCATION:Northwestern Iran
+SUMMARY:1990 Northwestern Iran
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110716-baguio-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110716
+DTEND;VALUE=DATE:20110716
+LOCATION:Baguio City, Philippines
+SUMMARY:1990 Baguio City, Philippines
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110817-honeydew-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110817
+DTEND;VALUE=DATE:20110817
+LOCATION:Honeydew, California, United States
+SUMMARY:1991 Honeydew, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110313-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110313
+DTEND;VALUE=DATE:20110313
+LOCATION:Erzincan, Turkey
+SUMMARY:North Anatolian Fault
+DESCRIPTION:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+URL:http://en.wikipedia.org/wiki/North_Anatolian_Fault
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110423-joshua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110423
+DTEND;VALUE=DATE:20110423
+LOCATION:Joshua Tree, California, United States
+SUMMARY:1992 Joshua Tree, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110425-cape-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110425
+DTEND;VALUE=DATE:20110425
+LOCATION:Cape Mendocino, California, United States
+SUMMARY:1992 Cape Mendocino, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110426-offshore-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110426
+DTEND;VALUE=DATE:20110426
+LOCATION:offshore, Cape Mendocino, California, United States
+SUMMARY:1992 offshore, Cape Mendocino, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110426-offshore-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110426
+DTEND;VALUE=DATE:20110426
+LOCATION:offshore, Cape Mendocino, California, United States
+SUMMARY:1992 offshore, Cape Mendocino, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110628-landers-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110628
+DTEND;VALUE=DATE:20110628
+LOCATION:Landers, California, USA
+SUMMARY:1992 Landers earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1992_Landers_earthquake
+URL:http://en.wikipedia.org/wiki/1992_Landers_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110902-nicaragua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110902
+DTEND;VALUE=DATE:20110902
+LOCATION:Nicaragua
+SUMMARY:1992 Nicaragua earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1992_Nicaragua_earthquake
+URL:http://en.wikipedia.org/wiki/1992_Nicaragua_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111012-cairo-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111012
+DTEND;VALUE=DATE:20111012
+LOCATION:Egypt, Cairo
+SUMMARY:1992 Cairo earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1992_Cairo_earthquake
+URL:http://en.wikipedia.org/wiki/1992_Cairo_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110712-hokkaido-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110712
+DTEND;VALUE=DATE:20110712
+LOCATION:Japan, Hokkaido Korea and Russia see1993 Hokkaido earthquake
+SUMMARY:1993 Hokkaido earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1993_Hokkaido_earthquake
+URL:http://en.wikipedia.org/wiki/1993_Hokkaido_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110929-latur-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110929
+DTEND;VALUE=DATE:20110929
+LOCATION:Latur-Killari, India
+SUMMARY:1993 Latur earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1993_Latur_earthquake
+URL:http://en.wikipedia.org/wiki/1993_Latur_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110117-northridge-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110117
+DTEND;VALUE=DATE:20110117
+LOCATION:Reseda, Los Angeles, California, United States
+SUMMARY:1994 Northridge earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1994_Northridge_earthquake
+URL:http://en.wikipedia.org/wiki/1994_Northridge_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110609-bolivia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110609
+DTEND;VALUE=DATE:20110609
+LOCATION:Bolivia
+SUMMARY:1994 Bolivia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1994_Bolivia_earthquake
+URL:http://en.wikipedia.org/wiki/1994_Bolivia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110901-cape-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110901
+DTEND;VALUE=DATE:20110901
+LOCATION:Cape Mendocino, California, United States
+SUMMARY:1994 Cape Mendocino, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111004-kuril-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111004
+DTEND;VALUE=DATE:20111004
+LOCATION:Near Kuril Islands, Russia
+SUMMARY:1994 Kuril Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1994_Kuril_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/1994_Kuril_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111115-calapan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111115
+DTEND;VALUE=DATE:20111115
+LOCATION:Calapan, Mindoro, Philippines
+SUMMARY:1994 Calapan, Mindoro, Philippines
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111228-offshore-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111228
+DTEND;VALUE=DATE:20111228
+LOCATION:Near Honshū, Japan
+SUMMARY:1994 offshore Sanriku earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1994_offshore_Sanriku_earthquake
+URL:http://en.wikipedia.org/wiki/1994_offshore_Sanriku_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110117-great-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110117
+DTEND;VALUE=DATE:20110117
+LOCATION:Southern Hyōgo Prefecture, Kinki region, Japan
+SUMMARY:Great Hanshin earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/Great_Hanshin_earthquake
+URL:http://en.wikipedia.org/wiki/Great_Hanshin_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110730-antofagasta-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110730
+DTEND;VALUE=DATE:20110730
+LOCATION:Near Coast Antofagasta, Chile
+SUMMARY:1995 Antofagasta earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1995_Antofagasta_earthquake
+URL:http://en.wikipedia.org/wiki/1995_Antofagasta_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110914-guerrero-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110914
+DTEND;VALUE=DATE:20110914
+LOCATION:Guerrero, Mexico
+SUMMARY:1995 Guerrero earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1995_Guerrero_earthquake
+URL:http://en.wikipedia.org/wiki/1995_Guerrero_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111001-dinar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111001
+DTEND;VALUE=DATE:20111001
+LOCATION:Dinar, Afyon, Turkey
+SUMMARY:1995 Dinar, Afyon, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111009-colima-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111009
+DTEND;VALUE=DATE:20111009
+LOCATION:Off the coast of Jalisco, Mexico
+SUMMARY:1995 Colima-Jalisco earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1995_Colima-Jalisco_earthquake
+URL:http://en.wikipedia.org/wiki/1995_Colima-Jalisco_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111021-chiapas-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111021
+DTEND;VALUE=DATE:20111021
+LOCATION:Chiapas, Mexico
+SUMMARY:1995 Chiapas earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1995_Chiapas_earthquake
+URL:http://en.wikipedia.org/wiki/1995_Chiapas_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111023-wuding-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111023
+DTEND;VALUE=DATE:20111023
+LOCATION:Wuding, Yunnan, China
+SUMMARY:1995 Wuding earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1995_Wuding_earthquake
+URL:http://en.wikipedia.org/wiki/1995_Wuding_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110217-biak-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110217
+DTEND;VALUE=DATE:20110217
+LOCATION:Near Biak Island, Indonesia
+SUMMARY:1996 Biak earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1996_Biak_earthquake
+URL:http://en.wikipedia.org/wiki/1996_Biak_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110810-collier-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110810
+DTEND;VALUE=DATE:20110810
+LOCATION:Collier Bay, Western Australia, Australia
+SUMMARY:1997 Collier Bay, Western Australia, Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110926-umbria-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110926
+DTEND;VALUE=DATE:20110926
+LOCATION:Umbria–Marche, Italy
+SUMMARY:1997 Umbria and Marche earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1997_Umbria_and_Marche_earthquake
+URL:http://en.wikipedia.org/wiki/1997_Umbria_and_Marche_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111108-manyi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111108
+DTEND;VALUE=DATE:20111108
+LOCATION:Tibet
+SUMMARY:1997 Manyi earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1997_Manyi_earthquake
+URL:http://en.wikipedia.org/wiki/1997_Manyi_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110130-antofagasta-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110130
+DTEND;VALUE=DATE:20110130
+LOCATION:Antofagasta, Chile
+SUMMARY:1998 Antofagasta, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110627-ceyhan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110627
+DTEND;VALUE=DATE:20110627
+LOCATION:Ceyhan, Adana, Turkey
+SUMMARY:1998 Ceyhan, Adana, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110717-papua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110717
+DTEND;VALUE=DATE:20110717
+LOCATION:New Guinea, Papua New Guinea
+SUMMARY:1998 Papua New Guinea earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1998_Papua_New_Guinea_earthquake
+URL:http://en.wikipedia.org/wiki/1998_Papua_New_Guinea_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110125-armenia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110125
+DTEND;VALUE=DATE:20110125
+LOCATION:Quindío And Risaralda, Colombia
+SUMMARY:1999 Armenia, Colombia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1999_Armenia,_Colombia_earthquake
+URL:http://en.wikipedia.org/wiki/1999_Armenia,_Colombia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110817-zmit-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110817
+DTEND;VALUE=DATE:20110817
+LOCATION:İzmit, Turkey
+SUMMARY:1999 İzmit earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake
+URL:http://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110920-chichi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110920
+DTEND;VALUE=DATE:20110920
+LOCATION:Chichi, Nantou, Taiwan
+SUMMARY:1999 Chichi earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1999_Chichi_earthquake
+URL:http://en.wikipedia.org/wiki/1999_Chichi_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111016-hector-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111016
+DTEND;VALUE=DATE:20111016
+LOCATION:Hector Mine, California, United States
+SUMMARY:1999 Hector Mine, California, United States
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111112-d-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111112
+DTEND;VALUE=DATE:20111112
+LOCATION:Düzce, Turkey
+SUMMARY:1999 Düzce earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/1999_D%C3%BCzce_earthquake
+URL:http://en.wikipedia.org/wiki/1999_D%C3%BCzce_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110114-yunnan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110114
+DTEND;VALUE=DATE:20110114
+LOCATION:Yunnan, China
+SUMMARY:2000 Yunnan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2000_Yunnan_earthquake
+URL:http://en.wikipedia.org/wiki/2000_Yunnan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110604-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110604
+DTEND;VALUE=DATE:20110604
+LOCATION:Sumatra, Indonesia
+SUMMARY:2000 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2000_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/2000_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111116-new-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111116
+DTEND;VALUE=DATE:20111116
+LOCATION:New Ireland, Papua New Guinea
+SUMMARY:2000 New Ireland earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2000_New_Ireland_earthquakes
+URL:http://en.wikipedia.org/wiki/2000_New_Ireland_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111125-baku-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111125
+DTEND;VALUE=DATE:20111125
+LOCATION:Baku, Azerbaijan
+SUMMARY:2000 Baku earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2000_Baku_earthquake
+URL:http://en.wikipedia.org/wiki/2000_Baku_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110101-mindanao-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110101
+DTEND;VALUE=DATE:20110101
+LOCATION:Mindanao, Philippines
+SUMMARY:2001 Mindanao, Philippines
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110109-vanuatu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110109
+DTEND;VALUE=DATE:20110109
+LOCATION:Vanuatu
+SUMMARY:2001 Vanuatu
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110110-kodiak-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110110
+DTEND;VALUE=DATE:20110110
+LOCATION:Kodiak Island region, Alaska
+SUMMARY:2001 Kodiak Island region, Alaska
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110113-el-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110113
+DTEND;VALUE=DATE:20110113
+LOCATION:El Salvador
+SUMMARY:2001 El Salvador earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2001_El_Salvador_earthquakes
+URL:http://en.wikipedia.org/wiki/2001_El_Salvador_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110126-gujarat-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110126
+DTEND;VALUE=DATE:20110126
+LOCATION:Gujarat, India
+SUMMARY:2001 Gujarat earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2001_Gujarat_earthquake
+URL:http://en.wikipedia.org/wiki/2001_Gujarat_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110213-el-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110213
+DTEND;VALUE=DATE:20110213
+LOCATION:El Salvador
+SUMMARY:2001 El Salvador earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2001_El_Salvador_earthquakes
+URL:http://en.wikipedia.org/wiki/2001_El_Salvador_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110213-southern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110213
+DTEND;VALUE=DATE:20110213
+LOCATION:Southern Sumatra, Indonesia
+SUMMARY:2001 Southern Sumatra, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110224-northern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110224
+DTEND;VALUE=DATE:20110224
+LOCATION:Northern Molucca Sea
+SUMMARY:2001 Northern Molucca Sea
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110228-nisqually-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110228
+DTEND;VALUE=DATE:20110228
+LOCATION:Olympia, Washington, USA
+SUMMARY:2001 Nisqually earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2001_Nisqually_earthquake
+URL:http://en.wikipedia.org/wiki/2001_Nisqually_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110603-kermadec-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110603
+DTEND;VALUE=DATE:20110603
+LOCATION:Kermadec Islands
+SUMMARY:2001 Kermadec Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110623-southern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110623
+DTEND;VALUE=DATE:20110623
+LOCATION:Near coast of Peru
+SUMMARY:2001 southern Peru earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2001_southern_Peru_earthquake
+URL:http://en.wikipedia.org/wiki/2001_southern_Peru_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110707-near-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110707
+DTEND;VALUE=DATE:20110707
+LOCATION:Near coast of Peru
+SUMMARY:2001 Near coast of Peru
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110821-east-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110821
+DTEND;VALUE=DATE:20110821
+LOCATION:East of North Island, New Zealand
+SUMMARY:2001 East of North Island, New Zealand
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111012-south-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111012
+DTEND;VALUE=DATE:20111012
+LOCATION:South of Mariana Islands
+SUMMARY:2001 South of Mariana Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111019-banda-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111019
+DTEND;VALUE=DATE:20111019
+LOCATION:Banda Sea, Indonesia
+SUMMARY:2001 Banda Sea, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111031-new-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111031
+DTEND;VALUE=DATE:20111031
+LOCATION:New Britain region, Papua New Guinea
+SUMMARY:2001 New Britain region, Papua New Guinea
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111114-kunlun-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111114
+DTEND;VALUE=DATE:20111114
+LOCATION:Qinghai, China
+SUMMARY:2001 Kunlun earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2001_Kunlun_earthquake
+URL:http://en.wikipedia.org/wiki/2001_Kunlun_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111212-south-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111212
+DTEND;VALUE=DATE:20111212
+LOCATION:South of Australia
+SUMMARY:2001 South of Australia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110102-vanuatu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110102
+DTEND;VALUE=DATE:20110102
+LOCATION:Vanuatu
+SUMMARY:2002 Vanuatu
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110203-afyon-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110203
+DTEND;VALUE=DATE:20110203
+LOCATION:Afyon, Turkey
+SUMMARY:2002 Afyon, Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110305-mindanao-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110305
+DTEND;VALUE=DATE:20110305
+LOCATION:Mindanao, Philippines
+SUMMARY:2002 Mindanao, Philippines
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110325-hindu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110325
+DTEND;VALUE=DATE:20110325
+LOCATION:Hindu Kush Region, Afghanistan
+SUMMARY:2002 Hindu Kush earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2002_Hindu_Kush_earthquakes
+URL:http://en.wikipedia.org/wiki/2002_Hindu_Kush_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110325-hindu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110325
+DTEND;VALUE=DATE:20110325
+LOCATION:Hindu Kush Region, Afghanistan
+SUMMARY:2002 Hindu Kush earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2002_Hindu_Kush_earthquakes
+URL:http://en.wikipedia.org/wiki/2002_Hindu_Kush_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110331-taiwan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110331
+DTEND;VALUE=DATE:20110331
+LOCATION:Taiwan region
+SUMMARY:2002 Taiwan region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110412-hindu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110412
+DTEND;VALUE=DATE:20110412
+LOCATION:Hindu Kush Region, Afghanistan
+SUMMARY:2002 Hindu Kush Region, Afghanistan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110426-mariana-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110426
+DTEND;VALUE=DATE:20110426
+LOCATION:Mariana Islands
+SUMMARY:2002 Mariana Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110622-bou-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110622
+DTEND;VALUE=DATE:20110622
+LOCATION:Qazvin Province, Iran
+SUMMARY:2002 Bou'in-Zahra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2002_Bou%27in-Zahra_earthquake
+URL:http://en.wikipedia.org/wiki/2002_Bou%27in-Zahra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110628-jilin-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110628
+DTEND;VALUE=DATE:20110628
+LOCATION:Jilin-Heilongjiang border region, China
+SUMMARY:2002 Jilin-Heilongjiang border region, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110819-fiji-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110819
+DTEND;VALUE=DATE:20110819
+LOCATION:Fiji region
+SUMMARY:2002 Fiji region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110819-south-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110819
+DTEND;VALUE=DATE:20110819
+LOCATION:South of the Fiji Islands
+SUMMARY:2002 South of the Fiji Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110908-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110908
+DTEND;VALUE=DATE:20110908
+LOCATION:North coast of New Guinea, Papua New Guinea
+SUMMARY:2002 North coast of New Guinea, Papua New Guinea
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111010-north-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111010
+DTEND;VALUE=DATE:20111010
+LOCATION:North coast of Papua, Indonesia
+SUMMARY:2002 North coast of Papua, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111024-kalehe-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111024
+DTEND;VALUE=DATE:20111024
+LOCATION:near Lake Kivu, Democratic Republic of the Congo
+SUMMARY:2002 Kalehe earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2002_Kalehe_earthquake
+URL:http://en.wikipedia.org/wiki/2002_Kalehe_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111031-molise-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111031
+DTEND;VALUE=DATE:20111031
+LOCATION:southern Italy
+SUMMARY:2002 Molise earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2002_Molise_earthquake
+URL:http://en.wikipedia.org/wiki/2002_Molise_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111101-northwestern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111101
+DTEND;VALUE=DATE:20111101
+LOCATION:Northwestern Kashmir
+SUMMARY:2002 Northwestern Kashmir
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111102-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111102
+DTEND;VALUE=DATE:20111102
+LOCATION:Simeulue, Indonesia
+SUMMARY:2002 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2002_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/2002_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111103-denali-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111103
+DTEND;VALUE=DATE:20111103
+LOCATION:Denali National Park, Alaska, USA
+SUMMARY:2002 Denali earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2002_Denali_earthquake
+URL:http://en.wikipedia.org/wiki/2002_Denali_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111117-northwest-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111117
+DTEND;VALUE=DATE:20111117
+LOCATION:Northwest of the Kuril Islands
+SUMMARY:2002 Northwest of the Kuril Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111120-northwestern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111120
+DTEND;VALUE=DATE:20111120
+LOCATION:Northwestern Kashmir
+SUMMARY:2002 Northwestern Kashmir
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110120-solomon-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110120
+DTEND;VALUE=DATE:20110120
+LOCATION:Solomon Islands
+SUMMARY:2003 Solomon Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110122-colima-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110122
+DTEND;VALUE=DATE:20110122
+LOCATION:Offshore Colima, Mexico
+SUMMARY:2003 Colima earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_Colima_earthquake
+URL:http://en.wikipedia.org/wiki/2003_Colima_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110224-bachu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110224
+DTEND;VALUE=DATE:20110224
+LOCATION:Maralbexi County, southern Xinjiang, China
+SUMMARY:2003 Bachu earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_Bachu_earthquake
+URL:http://en.wikipedia.org/wiki/2003_Bachu_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110317-rat-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110317
+DTEND;VALUE=DATE:20110317
+LOCATION:Rat Islands, Alaska, USA
+SUMMARY:2003 Rat Islands, Alaska, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110501-bing-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110501
+DTEND;VALUE=DATE:20110501
+LOCATION:Bingöl, Turkey
+SUMMARY:2003 Bingöl earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_Bing%C3%B6l_earthquake
+URL:http://en.wikipedia.org/wiki/2003_Bing%C3%B6l_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110521-boumerd-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110521
+DTEND;VALUE=DATE:20110521
+LOCATION:Boumerdès, Algeria
+SUMMARY:2003 Boumerdès earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake
+URL:http://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110526-near-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110526
+DTEND;VALUE=DATE:20110526
+LOCATION:Near east coast of Honshu, Japan
+SUMMARY:2003 Near east coast of Honshu, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110526-halmahera-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110526
+DTEND;VALUE=DATE:20110526
+LOCATION:Halmahera, Indonesia
+SUMMARY:2003 Halmahera, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110527-boumerd-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110527
+DTEND;VALUE=DATE:20110527
+LOCATION:Boumerdès, Algeria
+SUMMARY:2003 Boumerdès, Algeria
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110620-amazonas-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110620
+DTEND;VALUE=DATE:20110620
+LOCATION:Amazonas, Brazil
+SUMMARY:2003 Amazonas, Brazil
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110715-carlsberg-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110715
+DTEND;VALUE=DATE:20110715
+LOCATION:Carlsberg Ridge
+SUMMARY:2003 Carlsberg Ridge
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110721-yunnan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110721
+DTEND;VALUE=DATE:20110721
+LOCATION:Yunnan, China
+SUMMARY:2003 Yunnan, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110804-scotia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110804
+DTEND;VALUE=DATE:20110804
+LOCATION:Scotia Sea, 60 km northeast of Laurie Island
+SUMMARY:2003 Scotia Sea, 60 km northeast of Laurie Island
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110821-fiordland-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110821
+DTEND;VALUE=DATE:20110821
+LOCATION:Fiordland, South Island, New Zealand
+SUMMARY:2003 Fiordland, South Island, New Zealand
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110922-dominican-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110922
+DTEND;VALUE=DATE:20110922
+LOCATION:Near Puerto Plata, Dominican Republic
+SUMMARY:2003 Dominican Republic earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_Dominican_Republic_earthquake
+URL:http://en.wikipedia.org/wiki/2003_Dominican_Republic_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110925-southeast-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110925
+DTEND;VALUE=DATE:20110925
+LOCATION:Southeast off Tokachi-Hidaka Subprefectures, Hokkaidō, Japan
+SUMMARY:2003 Southeast off Tokachi-Hidaka Subprefectures, Hokkaidō, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110925-southeast-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110925
+DTEND;VALUE=DATE:20110925
+LOCATION:Southeast off Tokachi-Hidaka Subprefectures, Hokkaidō, Japan
+SUMMARY:2003 Southeast off Tokachi-Hidaka Subprefectures, Hokkaidō, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110927-altai-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110927
+DTEND;VALUE=DATE:20110927
+LOCATION:Altai Republic, south-central Siberia, Russia
+SUMMARY:2003 Altai earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_Altai_earthquake
+URL:http://en.wikipedia.org/wiki/2003_Altai_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111025-gansu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111025
+DTEND;VALUE=DATE:20111025
+LOCATION:Gansu-Qinghai border region, China
+SUMMARY:2003 Gansu-Qinghai border region, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111031-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111031
+DTEND;VALUE=DATE:20111031
+LOCATION:Off east coast of Honshu, Japan
+SUMMARY:2003 Off east coast of Honshu, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111117-rat-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111117
+DTEND;VALUE=DATE:20111117
+LOCATION:Rat Islands, Alaska, USA
+SUMMARY:2003 Rat Islands, Alaska, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111201-kazakhstan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111201
+DTEND;VALUE=DATE:20111201
+LOCATION:Kazakhstan-Xinjiang border region
+SUMMARY:2003 Kazakhstan-Xinjiang border region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111222-san-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111222
+DTEND;VALUE=DATE:20111222
+LOCATION:San Simeon, California, USA
+SUMMARY:2003 San Simeon earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_San_Simeon_earthquake
+URL:http://en.wikipedia.org/wiki/2003_San_Simeon_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111225-puerto-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111225
+DTEND;VALUE=DATE:20111225
+LOCATION:Near Puerto Armuelles, Panama
+SUMMARY:2003 Puerto Armuelles earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_Puerto_Armuelles_earthquake
+URL:http://en.wikipedia.org/wiki/2003_Puerto_Armuelles_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111226-bam-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111226
+DTEND;VALUE=DATE:20111226
+LOCATION:Southeastern Iran
+SUMMARY:2003 Bam earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2003_Bam_earthquake
+URL:http://en.wikipedia.org/wiki/2003_Bam_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111227-southeast-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111227
+DTEND;VALUE=DATE:20111227
+LOCATION:Southeast of the Loyalty Islands
+SUMMARY:2003 Southeast of the Loyalty Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110103-southeast-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110103
+DTEND;VALUE=DATE:20110103
+LOCATION:Southeast of the Loyalty Islands
+SUMMARY:2004 Southeast of the Loyalty Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110205-papua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110205
+DTEND;VALUE=DATE:20110205
+LOCATION:Papua, Indonesia
+SUMMARY:2004 Papua, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110207-near-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110207
+DTEND;VALUE=DATE:20110207
+LOCATION:Near south coast of Papua, Indonesia
+SUMMARY:2004 Near south coast of Papua, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110214-west-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110214
+DTEND;VALUE=DATE:20110214
+LOCATION:West of Sirsanai, North-West Frontier Province, Pakistan
+SUMMARY:2004 West of Sirsanai, North-West Frontier Province, Pakistan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110224-morocco-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110224
+DTEND;VALUE=DATE:20110224
+LOCATION:Strait of Gibraltar
+SUMMARY:2004 Morocco earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2004_Morocco_earthquake
+URL:http://en.wikipedia.org/wiki/2004_Morocco_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110325-erzurum-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110325
+DTEND;VALUE=DATE:20110325
+LOCATION:Erzurum, eastern Turkey
+SUMMARY:2004 Erzurum, eastern Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110528-m-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110528
+DTEND;VALUE=DATE:20110528
+LOCATION:Māzandarān Province, northern Iran
+SUMMARY:2004 Māzandarān Province, northern Iran
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110701-do-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110701
+DTEND;VALUE=DATE:20110701
+LOCATION:Doğubeyazıt, eastern Turkey
+SUMMARY:2004 Doğubeyazıt, eastern Turkey
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110715-fiji-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110715
+DTEND;VALUE=DATE:20110715
+LOCATION:Fiji region
+SUMMARY:2004 Fiji region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110725-southern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110725
+DTEND;VALUE=DATE:20110725
+LOCATION:Southern Sumatra, Indonesia
+SUMMARY:2004 Southern Sumatra, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110905-southeast-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110905
+DTEND;VALUE=DATE:20110905
+LOCATION:Southeast off Mie Prefecture, Kinki-Tōkai regions, Japan
+SUMMARY:2004 Southeast off Mie Prefecture, Kinki-Tōkai regions, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110905-southeast-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110905
+DTEND;VALUE=DATE:20110905
+LOCATION:Southeast off Mie Prefecture, Kinki-Tōkai regions, Japan
+SUMMARY:2004 Southeast off Mie Prefecture, Kinki-Tōkai regions, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111009-km-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111009
+DTEND;VALUE=DATE:20111009
+LOCATION:80 km southwest of Managua, Nicaragua
+SUMMARY:80 km southwest of Managua, Nicaragua
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111023-ch-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111023
+DTEND;VALUE=DATE:20111023
+LOCATION:Mid Niigata Prefecture, Chūbu region, Japan
+SUMMARY:2004 Chūetsu earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2004_Ch%C5%ABetsu_earthquake
+URL:http://en.wikipedia.org/wiki/2004_Ch%C5%ABetsu_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111111-km-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111111
+DTEND;VALUE=DATE:20111111
+LOCATION:96 km west-northwest of Dili, East Timor
+SUMMARY:96 km west-northwest of Dili, East Timor
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111115-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111115
+DTEND;VALUE=DATE:20111115
+LOCATION:off coast of Chocó, Colombia
+SUMMARY:2004 off coast of Chocó, Colombia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111120-km-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111120
+DTEND;VALUE=DATE:20111120
+LOCATION:48 km south-southwest of San José, Costa Rica
+SUMMARY:48 km south-southwest of San José, Costa Rica
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111121-km-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111121
+DTEND;VALUE=DATE:20111121
+LOCATION:45 km northwest of Dominica, Leeward Islands
+SUMMARY:45 km northwest of Dominica, Leeward Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111122-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111122
+DTEND;VALUE=DATE:20111122
+LOCATION:Off west coast of South Island, New Zealand
+SUMMARY:2004 Off west coast of South Island, New Zealand
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111126-papua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111126
+DTEND;VALUE=DATE:20111126
+LOCATION:Papua, Indonesia
+SUMMARY:2004 Papua, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111128-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111128
+DTEND;VALUE=DATE:20111128
+LOCATION:Off Kushiro Subprefecture, Hokkaidō, Japan
+SUMMARY:2004 Off Kushiro Subprefecture, Hokkaidō, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111223-kilometres-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111223
+DTEND;VALUE=DATE:20111223
+LOCATION:495 kilometres north of Macquarie Island, SW of New Zealand
+SUMMARY:495 kilometres north of Macquarie Island, SW of New Zealand
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111226-indian-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111226
+DTEND;VALUE=DATE:20111226
+LOCATION:off west coast northern Sumatra, Indonesia
+SUMMARY:2004 Indian Ocean earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake
+URL:http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111226-nicobar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111226
+DTEND;VALUE=DATE:20111226
+LOCATION:Nicobar Islands, India
+SUMMARY:2004 Nicobar Islands, India
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110205-celebes-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110205
+DTEND;VALUE=DATE:20110205
+LOCATION:Celebes Sea
+SUMMARY:2005 Celebes Sea
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110222-zarand-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110222
+DTEND;VALUE=DATE:20110222
+LOCATION:Zarand, Iran
+SUMMARY:2005 Zarand earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Zarand_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Zarand_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110302-banda-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110302
+DTEND;VALUE=DATE:20110302
+LOCATION:Banda Sea, Indonesia
+SUMMARY:2005 Banda Sea earthquake
+DESCRIPTION:http://en.wikipedia.org/w/index.php?title=2005_Banda_Sea_earthquake&action=edit&redlink=1
+URL:http://en.wikipedia.org/w/index.php?title=2005_Banda_Sea_earthquake&action=edit&redlink=1
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110320-fukuoka-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110320
+DTEND;VALUE=DATE:20110320
+LOCATION:West off Fukuoka Prefecture, Kyūshū region, Japan
+SUMMARY:2005 Fukuoka earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Fukuoka_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Fukuoka_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110328-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110328
+DTEND;VALUE=DATE:20110328
+LOCATION:Nias region, Indonesia
+SUMMARY:2005 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110613-tarapac-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110613
+DTEND;VALUE=DATE:20110613
+LOCATION:Tarapacá, Chile
+SUMMARY:2005 Tarapacá earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Tarapac%C3%A1_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Tarapac%C3%A1_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110615-km-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110615
+DTEND;VALUE=DATE:20110615
+LOCATION:157 km WSW of Crescent City, offshore northern California
+SUMMARY:157 km WSW of Crescent City, offshore northern California
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110724-nicobar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110724
+DTEND;VALUE=DATE:20110724
+LOCATION:Nicobar Islands, India
+SUMMARY:2005 Nicobar Islands, India
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110816-miyagi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110816
+DTEND;VALUE=DATE:20110816
+LOCATION:Off the east coast of Miyagi Prefecture, Tōhoku region, Japan
+SUMMARY:2005 Miyagi earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Miyagi_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Miyagi_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110909-new-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110909
+DTEND;VALUE=DATE:20110909
+LOCATION:New Ireland Province, Papua New Guinea
+SUMMARY:2005 New Ireland Province, Papua New Guinea
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110926-northern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110926
+DTEND;VALUE=DATE:20110926
+LOCATION:42 km NW of Yurimaguas, northern Peru
+SUMMARY:2005 northern Peru earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_northern_Peru_earthquake
+URL:http://en.wikipedia.org/wiki/2005_northern_Peru_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111008-kashmir-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111008
+DTEND;VALUE=DATE:20111008
+LOCATION:Kashmir, Pakistan
+SUMMARY:2005 Kashmir earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Kashmir_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Kashmir_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111114-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111114
+DTEND;VALUE=DATE:20111114
+LOCATION:Off the east coast of Honshu, Japan
+SUMMARY:2005 Off the east coast of Honshu, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111126-ruichang-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111126
+DTEND;VALUE=DATE:20111126
+LOCATION:Jiujiang, Hubei-Jiangxi border, China
+SUMMARY:2005 Ruichang earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Ruichang_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Ruichang_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111127-qeshm-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111127
+DTEND;VALUE=DATE:20111127
+LOCATION:Qeshm Island, southern Iran
+SUMMARY:2005 Qeshm earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Qeshm_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Qeshm_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111205-lake-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111205
+DTEND;VALUE=DATE:20111205
+LOCATION:Lake Tanganyika region, DR Congo-Tanzania
+SUMMARY:2005 Lake Tanganyika earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2005_Lake_Tanganyika_earthquake
+URL:http://en.wikipedia.org/wiki/2005_Lake_Tanganyika_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111212-hindu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111212
+DTEND;VALUE=DATE:20111212
+LOCATION:Hindu Kush region, Afghanistan See 2005 Hindu Kush earthquake
+SUMMARY:2005 Hindu Kush region, Afghanistan See 2005 Hindu Kush earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110102-east-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110102
+DTEND;VALUE=DATE:20110102
+LOCATION:east of the South Sandwich Islands
+SUMMARY:2006 east of the South Sandwich Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110102-fiji-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110102
+DTEND;VALUE=DATE:20110102
+LOCATION:Fiji region
+SUMMARY:2006 Fiji region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110127-banda-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110127
+DTEND;VALUE=DATE:20110127
+LOCATION:Banda Sea, Indonesia
+SUMMARY:2006 Banda Sea earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2006_Banda_Sea_earthquake
+URL:http://en.wikipedia.org/wiki/2006_Banda_Sea_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110222-northern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110222
+DTEND;VALUE=DATE:20110222
+LOCATION:Northern Mozambique
+SUMMARY:2006 Northern Mozambique
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110314-seram-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110314
+DTEND;VALUE=DATE:20110314
+LOCATION:Seram, Indonesia
+SUMMARY:2006 Seram, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110331-borujerd-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110331
+DTEND;VALUE=DATE:20110331
+LOCATION:Borujerd, western Iran
+SUMMARY:2006 Borujerd earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2006_Borujerd_earthquake
+URL:http://en.wikipedia.org/wiki/2006_Borujerd_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110420-kamchatka-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110420
+DTEND;VALUE=DATE:20110420
+LOCATION:Koryak Okrug, Russia
+SUMMARY:2006 Kamchatka earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2006_Kamchatka_earthquakes
+URL:http://en.wikipedia.org/wiki/2006_Kamchatka_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110503-tonga-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110503
+DTEND;VALUE=DATE:20110503
+LOCATION:Tonga
+SUMMARY:2006 Tonga earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2006_Tonga_earthquake
+URL:http://en.wikipedia.org/wiki/2006_Tonga_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110516-kermadec-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110516
+DTEND;VALUE=DATE:20110516
+LOCATION:Kermadec Islands, New Zealand
+SUMMARY:2006 Kermadec Islands, New Zealand
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110527-may-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110527
+DTEND;VALUE=DATE:20110527
+LOCATION:Java, Indonesia
+SUMMARY:May 2006 Java earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/May_2006_Java_earthquake
+URL:http://en.wikipedia.org/wiki/May_2006_Java_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110717-july-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110717
+DTEND;VALUE=DATE:20110717
+LOCATION:South of Java, Indonesia
+SUMMARY:July 2006 Java earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/July_2006_Java_earthquake
+URL:http://en.wikipedia.org/wiki/July_2006_Java_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110820-scotia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110820
+DTEND;VALUE=DATE:20110820
+LOCATION:Scotia Sea
+SUMMARY:2006 Scotia Sea
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111115-kuril-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111115
+DTEND;VALUE=DATE:20111115
+LOCATION:Kuril Islands, Russia
+SUMMARY:2006 Kuril Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2006_Kuril_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/2006_Kuril_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111217-northern-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111217
+DTEND;VALUE=DATE:20111217
+LOCATION:Northern Sumatra, Indonesia
+SUMMARY:2006 Northern Sumatra, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111226-hengchun-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111226
+DTEND;VALUE=DATE:20111226
+LOCATION:91 km SSE of Kaohsiung, Taiwan
+SUMMARY:2006 Hengchun earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2006_Hengchun_earthquake
+URL:http://en.wikipedia.org/wiki/2006_Hengchun_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110113-kuril-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110113
+DTEND;VALUE=DATE:20110113
+LOCATION:East of the Kuril Islands, Russia
+SUMMARY:2007 Kuril Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Kuril_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Kuril_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110121-molucca-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110121
+DTEND;VALUE=DATE:20110121
+LOCATION:Molucca Sea
+SUMMARY:2007 Molucca Sea
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110306-march-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110306
+DTEND;VALUE=DATE:20110306
+LOCATION:Sumatra, Indonesia
+SUMMARY:March 2007 Sumatra earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/March_2007_Sumatra_earthquakes
+URL:http://en.wikipedia.org/wiki/March_2007_Sumatra_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110325-vanuatu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110325
+DTEND;VALUE=DATE:20110325
+LOCATION:Vanuatu
+SUMMARY:2007 Vanuatu
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110325-noto-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110325
+DTEND;VALUE=DATE:20110325
+LOCATION:Off the west coast of Noto Peninsula, northern Ishikawa Prefecture, Chūbu region, Japan
+SUMMARY:2007 Noto earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Noto_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Noto_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110401-solomon-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110401
+DTEND;VALUE=DATE:20110401
+LOCATION:Solomon Islands
+SUMMARY:2007 Solomon Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Solomon_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Solomon_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110421-ais-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110421
+DTEND;VALUE=DATE:20110421
+LOCATION:Aisén Fjord, Chile
+SUMMARY:2007 Aisén Fjord earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Ais%C3%A9n_Fjord_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Ais%C3%A9n_Fjord_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110602-yunnan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110602
+DTEND;VALUE=DATE:20110602
+LOCATION:Yunnan, China
+SUMMARY:2007 Yunnan, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110716-ch-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110716
+DTEND;VALUE=DATE:20110716
+LOCATION:Off northern Niigata Prefecture, Chūbu region, Japan
+SUMMARY:2007 Chūetsu offshore earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Ch%C5%ABetsu_offshore_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Ch%C5%ABetsu_offshore_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110801-vanuatu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110801
+DTEND;VALUE=DATE:20110801
+LOCATION:Vanuatu
+SUMMARY:2007 Vanuatu
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110802-tatar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110802
+DTEND;VALUE=DATE:20110802
+LOCATION:Tatar Strait, Russia
+SUMMARY:2007 Tatar Strait, Russia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110808-java-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110808
+DTEND;VALUE=DATE:20110808
+LOCATION:Java, Indonesia
+SUMMARY:2007 Java, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110815-peru-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110815
+DTEND;VALUE=DATE:20110815
+LOCATION:40
+SUMMARY:2007 Peru earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Peru_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Peru_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110902-santa-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110902
+DTEND;VALUE=DATE:20110902
+LOCATION:Santa Cruz Islands
+SUMMARY:2007 Santa Cruz Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110912-september-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110912
+DTEND;VALUE=DATE:20110912
+LOCATION:Sumatra, Indonesia
+SUMMARY:September 2007 Sumatra earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/September_2007_Sumatra_earthquakes
+URL:http://en.wikipedia.org/wiki/September_2007_Sumatra_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110912-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110912
+DTEND;VALUE=DATE:20110912
+LOCATION:Sumatra, Indonesia
+SUMMARY:2007 Sumatra, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110913-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110913
+DTEND;VALUE=DATE:20110913
+LOCATION:Sumatra, Indonesia
+SUMMARY:2007 Sumatra, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110928-mariana-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110928
+DTEND;VALUE=DATE:20110928
+LOCATION:Mariana Islands, USA
+SUMMARY:2007 Mariana Islands, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110930-auckland-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110930
+DTEND;VALUE=DATE:20110930
+LOCATION:Auckland Islands, New Zealand
+SUMMARY:2007 Auckland Islands, New Zealand
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111031-mariana-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111031
+DTEND;VALUE=DATE:20111031
+LOCATION:Pagan Region, Northern Mariana Islands, USA
+SUMMARY:2007 Mariana Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Mariana_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Mariana_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111114-antofagasta-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111114
+DTEND;VALUE=DATE:20111114
+LOCATION:Antofagasta, Chile
+SUMMARY:2007 Antofagasta earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Antofagasta_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Antofagasta_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111125-sumbawa-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111125
+DTEND;VALUE=DATE:20111125
+LOCATION:Sumbawa, Indonesia
+SUMMARY:2007 Sumbawa, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111129-martinique-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111129
+DTEND;VALUE=DATE:20111129
+LOCATION:Martinique Region, Windward Islands , France
+SUMMARY:2007 Martinique earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Martinique_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Martinique_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111209-south-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111209
+DTEND;VALUE=DATE:20111209
+LOCATION:South of the Fiji Islands
+SUMMARY:2007 South of the Fiji Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111219-andreanof-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111219
+DTEND;VALUE=DATE:20111219
+LOCATION:Andreanof Islands, Aleutians, Alaska, USA
+SUMMARY:2007 Andreanof Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2007_Andreanof_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/2007_Andreanof_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110203-lake-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110203
+DTEND;VALUE=DATE:20110203
+LOCATION:Lake Kivu region, Congo
+SUMMARY:2008 Lake Kivu earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Lake_Kivu_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Lake_Kivu_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110220-simeulue-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110220
+DTEND;VALUE=DATE:20110220
+LOCATION:Simeulue, Indonesia
+SUMMARY:2008 Simeulue, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110225-mentawai-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110225
+DTEND;VALUE=DATE:20110225
+LOCATION:Mentawai Islands, Indonesia
+SUMMARY:2008 Mentawai Islands, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110320-xinjiang-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110320
+DTEND;VALUE=DATE:20110320
+LOCATION:Xinjiang-Xizang border, China
+SUMMARY:2008 Xinjiang-Xizang border, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110409-loyalty-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110409
+DTEND;VALUE=DATE:20110409
+LOCATION:Loyalty Islands
+SUMMARY:2008 Loyalty Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110412-macquarie-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110412
+DTEND;VALUE=DATE:20110412
+LOCATION:Macquarie Island region
+SUMMARY:2008 Macquarie Island region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110512-sichuan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110512
+DTEND;VALUE=DATE:20110512
+LOCATION:Sichuan Province, China
+SUMMARY:2008 Sichuan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Sichuan_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Sichuan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110524-el-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110524
+DTEND;VALUE=DATE:20110524
+LOCATION:El Calvario, Colombia
+SUMMARY:2008 El Calvario earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_El_Calvario_earthquake
+URL:http://en.wikipedia.org/wiki/2008_El_Calvario_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110525-sichuan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110525
+DTEND;VALUE=DATE:20110525
+LOCATION:Sichuan-Gansu border region, China
+SUMMARY:2008 Sichuan-Gansu border region, China
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110608-peloponnese-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110608
+DTEND;VALUE=DATE:20110608
+LOCATION:Peloponnese region, 32 km SW of Patras, Greece
+SUMMARY:2008 Peloponnese earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Peloponnese_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Peloponnese_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110613-iwate-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110613
+DTEND;VALUE=DATE:20110613
+LOCATION:Southern inland of Iwate Prefecture, Tōhoku region, Japan
+SUMMARY:2008 Iwate-Miyagi Nairiku earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Iwate-Miyagi_Nairiku_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Iwate-Miyagi_Nairiku_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110630-south-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110630
+DTEND;VALUE=DATE:20110630
+LOCATION:South Sandwich Islands region
+SUMMARY:2008 South Sandwich Islands region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110705-sea-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110705
+DTEND;VALUE=DATE:20110705
+LOCATION:Sea of Okhotsk
+SUMMARY:2008 Sea of Okhotsk
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110719-off-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110719
+DTEND;VALUE=DATE:20110719
+LOCATION:Off Fukushima Prefecture, Tōhoku region, Japan
+SUMMARY:2008 Off Fukushima Prefecture, Tōhoku region, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110821-yunnan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110821
+DTEND;VALUE=DATE:20110821
+LOCATION:Yunnan, China - Myanmar border region
+SUMMARY:2008 Yunnan, China - Myanmar border region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110830-panzhihua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110830
+DTEND;VALUE=DATE:20110830
+LOCATION:Sichuan-Yunnan border region, China
+SUMMARY:2008 Panzhihua earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Panzhihua_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Panzhihua_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110910-bandar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110910
+DTEND;VALUE=DATE:20110910
+LOCATION:Southern Iran
+SUMMARY:2008 Bandar Abbas earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Bandar_Abbas_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Bandar_Abbas_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110929-kermadec-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110929
+DTEND;VALUE=DATE:20110929
+LOCATION:Kermadec Islands, New Zealand
+SUMMARY:2008 Kermadec Islands, New Zealand
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111005-kyrgyzstan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111005
+DTEND;VALUE=DATE:20111005
+LOCATION:Eastern Kyrgyzstan
+SUMMARY:2008 Kyrgyzstan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Kyrgyzstan_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Kyrgyzstan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111006-damxung-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111006
+DTEND;VALUE=DATE:20111006
+LOCATION:Eastern Tibet Autonomous Region , China
+SUMMARY:2008 Damxung earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Damxung_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Damxung_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111011-chechnya-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111011
+DTEND;VALUE=DATE:20111011
+LOCATION:Chechnya, Russia
+SUMMARY:2008 Chechnya earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Chechnya_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Chechnya_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111028-pakistan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111028
+DTEND;VALUE=DATE:20111028
+LOCATION:Northwestern Pakistan
+SUMMARY:2008 Pakistan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Pakistan_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Pakistan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111116-sulawesi-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111116
+DTEND;VALUE=DATE:20111116
+LOCATION:Minahasa, Sulawesi, Indonesia
+SUMMARY:2008 Sulawesi earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2008_Sulawesi_earthquake
+URL:http://en.wikipedia.org/wiki/2008_Sulawesi_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111124-sea-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111124
+DTEND;VALUE=DATE:20111124
+LOCATION:Sea of Okhotsk
+SUMMARY:2008 Sea of Okhotsk
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110103-papua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110103
+DTEND;VALUE=DATE:20110103
+LOCATION:West Papua province, Indonesia
+SUMMARY:2009 Papua earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Papua_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Papua_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110103-papua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110103
+DTEND;VALUE=DATE:20110103
+LOCATION:West Papua province, Indonesia
+SUMMARY:2009 Papua earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Papua_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Papua_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110108-costa-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110108
+DTEND;VALUE=DATE:20110108
+LOCATION:Costa Rica
+SUMMARY:2009 Costa Rica earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Costa_Rica_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Costa_Rica_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110115-east-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110115
+DTEND;VALUE=DATE:20110115
+LOCATION:East of the Kuril Islands, Russia
+SUMMARY:2009 East of the Kuril Islands, Russia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110211-near-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110211
+DTEND;VALUE=DATE:20110211
+LOCATION:Near Talaud Islands, Indonesia
+SUMMARY:2009 Near Talaud Islands, Indonesia
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110218-kermadec-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110218
+DTEND;VALUE=DATE:20110218
+LOCATION:Kermadec Islands region
+SUMMARY:2009 Kermadec Islands region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110319-tonga-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110319
+DTEND;VALUE=DATE:20110319
+LOCATION:Tonga Region
+SUMMARY:2009 Tonga earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Tonga_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Tonga_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110406-l-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110406
+DTEND;VALUE=DATE:20110406
+LOCATION:Near L'Aquila, Abruzzo, Italy
+SUMMARY:2009 L'Aquila earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_L%27Aquila_earthquake
+URL:http://en.wikipedia.org/wiki/2009_L%27Aquila_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110416-afghanistan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110416
+DTEND;VALUE=DATE:20110416
+LOCATION:Hindu Kush Region, Eastern Afghanistan
+SUMMARY:2009 Afghanistan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Afghanistan_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Afghanistan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110528-honduras-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110528
+DTEND;VALUE=DATE:20110528
+LOCATION:off north coast of Honduras
+SUMMARY:2009 Honduras earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Honduras_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Honduras_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110715-fiordland-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110715
+DTEND;VALUE=DATE:20110715
+LOCATION:Fiordland, New Zealand
+SUMMARY:2009 Fiordland earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Fiordland_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Fiordland_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110809-izu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110809
+DTEND;VALUE=DATE:20110809
+LOCATION:Izu Islands, Japan
+SUMMARY:2009 Izu Islands, Japan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110810-andaman-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110810
+DTEND;VALUE=DATE:20110810
+LOCATION:Andaman Islands, Indian Ocean
+SUMMARY:2009 Andaman Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Andaman_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Andaman_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110902-java-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110902
+DTEND;VALUE=DATE:20110902
+LOCATION:Java, Indonesia
+SUMMARY:2009 Java earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Java_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Java_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110929-samoa-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110929
+DTEND;VALUE=DATE:20110929
+LOCATION:Samoa Islands
+SUMMARY:2009 Samoa earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Samoa_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Samoa_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110930-sumatra-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110930
+DTEND;VALUE=DATE:20110930
+LOCATION:southern Sumatra, Indonesia
+SUMMARY:2009 Sumatra earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Sumatra_earthquakes
+URL:http://en.wikipedia.org/wiki/2009_Sumatra_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111007-vanuatu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111007
+DTEND;VALUE=DATE:20111007
+LOCATION:Torres Islands, Vanuatu
+SUMMARY:2009 Vanuatu earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Vanuatu_earthquakes
+URL:http://en.wikipedia.org/wiki/2009_Vanuatu_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111007-torres-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111007
+DTEND;VALUE=DATE:20111007
+LOCATION:Torres Islands, Vanuatu
+SUMMARY:2009 Torres Islands, Vanuatu
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111007-torres-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111007
+DTEND;VALUE=DATE:20111007
+LOCATION:Torres Islands, Vanuatu
+SUMMARY:2009 Torres Islands, Vanuatu
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111109-fiji-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111109
+DTEND;VALUE=DATE:20111109
+LOCATION:Fiji
+SUMMARY:2009 Fiji earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2009_Fiji_earthquake
+URL:http://en.wikipedia.org/wiki/2009_Fiji_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110103-january-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110103
+DTEND;VALUE=DATE:20110103
+LOCATION:Solomon Islands
+SUMMARY:January 2010 Solomon Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/January_2010_Solomon_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/January_2010_Solomon_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110112-haiti-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110112
+DTEND;VALUE=DATE:20110112
+LOCATION:Haiti
+SUMMARY:2010 Haiti earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Haiti_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Haiti_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110226-ryukyu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110226
+DTEND;VALUE=DATE:20110226
+LOCATION:Ryukyu Islands
+SUMMARY:2010 Ryukyu Islands
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110227-chile-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110227
+DTEND;VALUE=DATE:20110227
+LOCATION:offshore Maule, Chile
+SUMMARY:2010 Chile earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Chile_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Chile_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110227-salta-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110227
+DTEND;VALUE=DATE:20110227
+LOCATION:Salta, Argentina
+SUMMARY:2010 Salta earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Salta_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Salta_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110308-el-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110308
+DTEND;VALUE=DATE:20110308
+LOCATION:Elâzığ Province, Turkey
+SUMMARY:2010 Elâzığ earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_El%C3%A2z%C4%B1%C4%9F_earthquake
+URL:http://en.wikipedia.org/wiki/2010_El%C3%A2z%C4%B1%C4%9F_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110311-pichilemu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110311
+DTEND;VALUE=DATE:20110311
+LOCATION:Pichilemu, Chile
+SUMMARY:2010 Pichilemu earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Pichilemu_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Pichilemu_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110404-baja-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110404
+DTEND;VALUE=DATE:20110404
+LOCATION:Baja California, Mexico
+SUMMARY:2010 Baja California earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Baja_California_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Baja_California_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110406-april-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110406
+DTEND;VALUE=DATE:20110406
+LOCATION:Sumatra, Indonesia
+SUMMARY:April 2010 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/April_2010_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/April_2010_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110413-yushu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110413
+DTEND;VALUE=DATE:20110413
+LOCATION:Yushu, Qinghai, China
+SUMMARY:2010 Yushu earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Yushu_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Yushu_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110418-afghanistan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110418
+DTEND;VALUE=DATE:20110418
+LOCATION:Afghanistan
+SUMMARY:2010 Afghanistan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Afghanistan_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Afghanistan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110509-may-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110509
+DTEND;VALUE=DATE:20110509
+LOCATION:offshore Northern Sumatra
+SUMMARY:May 2010 Northern Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/May_2010_Northern_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/May_2010_Northern_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110527-vanuatu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110527
+DTEND;VALUE=DATE:20110527
+LOCATION:Vanuatu
+SUMMARY:2010 Vanuatu
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110612-nicobar-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110612
+DTEND;VALUE=DATE:20110612
+LOCATION:Nicobar Islands, India
+SUMMARY:2010 Nicobar Islands, India
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110616-papua-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110616
+DTEND;VALUE=DATE:20110616
+LOCATION:offshore of Papua, Indonesia
+SUMMARY:2010 Papua earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Papua_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Papua_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110630-oaxaca-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110630
+DTEND;VALUE=DATE:20110630
+LOCATION:Oaxaca, Mexico
+SUMMARY:2010 Oaxaca earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Oaxaca_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Oaxaca_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110718-new-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110718
+DTEND;VALUE=DATE:20110718
+LOCATION:New Britain, Papua New Guinea
+SUMMARY:2010 New Britain earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_New_Britain_earthquake
+URL:http://en.wikipedia.org/wiki/2010_New_Britain_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110723-mindanao-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110723
+DTEND;VALUE=DATE:20110723
+LOCATION:Moro Gulf, Mindanao, Philippines
+SUMMARY:2010 Mindanao earthquakes
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Mindanao_earthquakes
+URL:http://en.wikipedia.org/wiki/2010_Mindanao_earthquakes
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110810-vanuatu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110810
+DTEND;VALUE=DATE:20110810
+LOCATION:Vanuatu
+SUMMARY:2010 Vanuatu
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110812-pastaza-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110812
+DTEND;VALUE=DATE:20110812
+LOCATION:Pastaza, Ecuador
+SUMMARY:2010 Pastaza, Ecuador
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110903-canterbury-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110903
+DTEND;VALUE=DATE:20110903
+LOCATION:Canterbury, New Zealand
+SUMMARY:2010 Canterbury earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Canterbury_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Canterbury_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111025-october-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111025
+DTEND;VALUE=DATE:20111025
+LOCATION:Sumatra Region
+SUMMARY:October 2010 Sumatra earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/October_2010_Sumatra_earthquake
+URL:http://en.wikipedia.org/wiki/October_2010_Sumatra_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111103-serbia-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111103
+DTEND;VALUE=DATE:20111103
+LOCATION:Central Serbia, Serbia
+SUMMARY:2010 Serbia earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Serbia_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Serbia_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111220-december-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111220
+DTEND;VALUE=DATE:20111220
+LOCATION:Sistan and Baluchestan, Iran
+SUMMARY:December 2010 Iran earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/December_2010_Iran_earthquake
+URL:http://en.wikipedia.org/wiki/December_2010_Iran_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111221-bonin-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111221
+DTEND;VALUE=DATE:20111221
+LOCATION:Japan Region
+SUMMARY:2010 Bonin Islands earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2010_Bonin_Islands_earthquake
+URL:http://en.wikipedia.org/wiki/2010_Bonin_Islands_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20111225-vanuatu-earthquake@kawa.net
+DTSTART;VALUE=DATE:20111225
+DTEND;VALUE=DATE:20111225
+LOCATION:Vanuatu Region
+SUMMARY:2010 Vanuatu Region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110101-santiago-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110101
+DTEND;VALUE=DATE:20110101
+LOCATION:Santiago del Estero, Argentina
+SUMMARY:2011 Santiago del Estero, Argentina
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110102-araucan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110102
+DTEND;VALUE=DATE:20110102
+LOCATION:Araucanía, Chile
+SUMMARY:2011 Araucanía, Chile
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110113-new-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110113
+DTEND;VALUE=DATE:20110113
+LOCATION:New Caledonia Region
+SUMMARY:2011 New Caledonia Region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110118-balochistan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110118
+DTEND;VALUE=DATE:20110118
+LOCATION:Balochistan, Pakistan
+SUMMARY:2011 Balochistan, Pakistan
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110221-february-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110221
+DTEND;VALUE=DATE:20110221
+LOCATION:Canterbury, New Zealand
+SUMMARY:February 2011 Christchurch earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/February_2011_Christchurch_earthquake
+URL:http://en.wikipedia.org/wiki/February_2011_Christchurch_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110309-japan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110309
+DTEND;VALUE=DATE:20110309
+LOCATION:Japan Region
+SUMMARY:2011 Japan Region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110310-yunnan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110310
+DTEND;VALUE=DATE:20110310
+LOCATION:Yunnan, China
+SUMMARY:2011 Yunnan earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2011_Yunnan_earthquake
+URL:http://en.wikipedia.org/wiki/2011_Yunnan_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110311-t-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110311
+DTEND;VALUE=DATE:20110311
+LOCATION:Japan Region
+SUMMARY:2011 Tōhoku earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami
+URL:http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110324-burma-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110324
+DTEND;VALUE=DATE:20110324
+LOCATION:Shan, Burma
+SUMMARY:2011 Burma earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2011_Burma_earthquake
+URL:http://en.wikipedia.org/wiki/2011_Burma_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110407-april-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110407
+DTEND;VALUE=DATE:20110407
+LOCATION:Miyagi, Japan
+SUMMARY:April 2011 Miyagi earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/April_2011_Miyagi_earthquake
+URL:http://en.wikipedia.org/wiki/April_2011_Miyagi_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110511-lorca-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110511
+DTEND;VALUE=DATE:20110511
+LOCATION:Murcia, Spain
+SUMMARY:2011 Lorca earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2011_Lorca_earthquake
+URL:http://en.wikipedia.org/wiki/2011_Lorca_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110519-k-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110519
+DTEND;VALUE=DATE:20110519
+LOCATION:Kütahya, Turkey
+SUMMARY:2011 Kütahya earthquake
+DESCRIPTION:http://en.wikipedia.org/wiki/2011_K%C3%BCtahya_earthquake
+URL:http://en.wikipedia.org/wiki/2011_K%C3%BCtahya_earthquake
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110624-fox-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110624
+DTEND;VALUE=DATE:20110624
+LOCATION:Fox Islands, Alaska, USA
+SUMMARY:2011 Fox Islands, Alaska, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110706-kermadec-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110706
+DTEND;VALUE=DATE:20110706
+LOCATION:Kermadec Islands, New Zealand
+SUMMARY:2011 Kermadec Islands, New Zealand
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:20110710-japan-earthquake@kawa.net
+DTSTART;VALUE=DATE:20110710
+DTEND;VALUE=DATE:20110710
+LOCATION:Japan Region
+SUMMARY:2011 Japan Region
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
