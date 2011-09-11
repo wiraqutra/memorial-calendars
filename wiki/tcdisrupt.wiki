@@ -1,10 +1,20 @@
 ==Techcrunch Disrupt 2011 SF Hackathon==
 
+At the day of just half year past since the huge earthquake at Northern Japan.
+
 http://disrupt.techcrunch.com/SF2011/hackathon/
 
 == Demo ==
 
+This calendar shows memorial days of earthquakes on the globe.
+
 http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
+
+== Resources ==
+
+* Wikipedia: http://en.wikipedia.org/wiki/List_of_earthquakes
+* Google Maps API
+* jQuery
 
 == Monetization ==
 
@@ -14,4 +24,6 @@ Human life value is priceless.
 
 == Note ==
 
-This application is based on an idea of @ishii_mit, Associate Director of the MIT Media Lab.
+This application is based on an idea of @ishii_mit, Associate Director of the MIT Media Lab:
+
+http://www.tweetdeck.com/twitter/ishii_mit/~9rZi9
