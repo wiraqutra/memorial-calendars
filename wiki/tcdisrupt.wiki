@@ -1,4 +1,4 @@
-== Wisdom of Earthquakes for [http://twitter.com/#!/search/%23tcdisrupt #tcdisrupt] Hackathon ==
+== Wisdom of Earthquakes (A Hack-For-Japan Project) ==
 
   * *TRY THIS DEMO* http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
 
@@ -28,12 +28,14 @@ Human life value is priceless.
 
 Yusuke Kawasaki, a.k.a. [http://twitter.com/kawanet @kawanet], Perl, Javascript and Actionscript hacker. Japanese.
 
-== Note ==
+==  [http://twitter.com/#!/search/%23tcdisrupt #tcdisrupt] Hackathon ==
+
+The great hackathon held here in the Techcrunch Disrupt 2011 SF at the day of just half year past since the huge earthquake has attacked Northern Japan.
+
+http://disrupt.techcrunch.com/SF2011/hackathon/
+
+== Thanks ==
 
 This application is based on an idea of [http://twitter.com/ishii_mit @ishii_mit], Associate Director of the MIT Media Lab:
 
 http://www.tweetdeck.com/twitter/ishii_mit/~9rZi9
-
-The great hackathon here in the Techcrunch Disrupt 2011 SF is held at the day of just half year past since the huge earthquake has attacked Northern Japan.
-
-http://disrupt.techcrunch.com/SF2011/hackathon/
