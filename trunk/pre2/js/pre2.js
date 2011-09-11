@@ -3,6 +3,7 @@
 var theMap;
 var theCal;
 var LISTURL = 'data/list.json';
+var INTERVAL = 200;
 var DESCURL = 'data/desc.json';
 var cacheList;
 var cacheMap;
@@ -21,6 +22,9 @@ function showCalendar() {
     var i;
     for(i=0; i<cacheList.length; i++) {
         var item = cacheList[i];
+        if (item.link && item.link.search(/^#/) == 0) {
+            continue;
+        }
         var split = item.date.split(/-/);
         var mon = split[1]-0;
         var day = split[2]-0;
@@ -93,7 +97,18 @@ function showCalendar() {
                 var ul = $('<ul/>');
                 for(var j=0; j<list.length; j++) {
                     var item = list[j];
-                    var li = $('<li/>').text(item.name);
+                    var li = $('<li/>');
+                    var name = item.name;
+                    name = name.replace(/earthquakes?/, 'EQ');
+                    if (item.link) {
+                        var a = $('<a/>').text(name);
+                        a.attr('href', item.link);
+                        a.attr('target', '_blank');
+                        li.append(a);
+                    } else {
+                        li.text(name);
+                    }
+                    li.attr('title', 'Magnitude: '+item.mag);
                     ul.append(li);
                 }
                 td.append(ul);
@@ -113,18 +128,36 @@ function showCalendar() {
 }
 
 function showControler() {
-    var div = $('<div/>');
+    var div = $('<span/>');
     var btn1 = $('<button/>').text('←').click(onClickPrev);
     var btn2 = $('<button/>').text('→').click(onClickNext);
     var btn3 = $('<button/>').text('AUTO').click(onClickAuto);
     var btn4 = $('<button/>').text('STOP').click(onClickStop);
     var btn5 = $('<button/>').text('TODAY').click(onClickToday);
+    var btn6 = $('<button/>').text('CAL').click(onClickCal);
+    var btn7 = $('<button/>').text('iCAL').click(onClickICAL);
+    var btn8 = $('<button/>').text('KML').click(onClickKML);
     div.append(btn1);
     div.append(btn2);
     div.append(btn3);
     div.append(btn4);
     div.append(btn5);
+    div.append(btn6);
+    div.append(btn7);
+    div.append(btn8);
     $('#ctrlhere').append(div);
+}
+
+function onClickICAL () {
+    window.open('data/eq-ical.ics', '_blank');
+}
+
+function onClickCal () {
+    window.open('http://bit.ly/eqcaltc', '_blank');
+}
+
+function onClickKML () {
+    window.open('data/eq-map.kml', '_blank');
 }
 
 var timerId;
@@ -148,7 +181,7 @@ function autoPlay() {
     timerId = null;
     var idx = moveCursor(+1); 
     if (! idx) return;
-    timerId = setTimeout(autoPlay, 100);
+    timerId = setTimeout(autoPlay, INTERVAL);
 }
 
 function onClickStop() {
@@ -192,6 +225,7 @@ function selectDay(key) {
     if (!td) return;
     td.addClass('today');
     td.focus();
+    setTimeout(scrollCal, 1);
     var list = cacheMap[key];
     if (!list) return;
     var i;
@@ -200,13 +234,6 @@ function selectDay(key) {
         circle.setMap(null);
     }
     bufCircle = [];
-
-    var top = td.position().top - theCal.position().top;
-    if (top < 0) {
-        theCal.animate({scrollTop: (theCal.scrollTop() + top)}, 100);
-    } else if (top > theCal.height()) { 
-        theCal.animate({scrollTop: (theCal.scrollTop() + top - theCal.height() + td.height())}, 100);
-    }
 
     for(i=0; i<list.length; i++) {
         var item = list[i];
@@ -218,20 +245,40 @@ function selectDay(key) {
         var center = new google.maps.LatLng(lat, lng);
         var mag = Math.floor(item.mag);
         var color = MAGCOLOR[mag] || '#666';
-//  google.maps.event.addListener(map, 'click', addLatLng);
 
         var circle = new google.maps.Circle({
-        center: center,       // 中心点(google.maps.LatLng)
-        fillColor: color,   // 塗りつぶし色
-        fillOpacity: 0.5,       // 塗りつぶし透過度（0: 透明 ⇔ 1:不透明）
-        map: theMap,            // 表示させる地図（google.maps.Map）
-        radius: 100000+50000*mag,          // 半径（ｍ）
-        strokeColor: color, // 外周色 
-        strokeOpacity: 1,       // 外周透過度（0: 透明 ⇔ 1:不透明）
-        strokeWeight: 2         // 外周太さ（ピクセル）
+            center: center,       // 中心点(google.maps.LatLng)
+            fillColor: color,   // 塗りつぶし色
+            fillOpacity: 0.5,       // 塗りつぶし透過度（0: 透明 ⇔ 1:不透明）
+            map: theMap,            // 表示させる地図（google.maps.Map）
+            radius: 100000+50000*mag,          // 半径（ｍ）
+            strokeColor: color, // 外周色 
+            strokeOpacity: 1,       // 外周透過度（0: 透明 ⇔ 1:不透明）
+            strokeWeight: 2         // 外周太さ（ピクセル）
+        });
+        bufCircle.push(circle);
+
+        circle = new google.maps.Circle({
+            center: center,       // 中心点(google.maps.LatLng)
+            fillColor: color,   // 塗りつぶし色
+            map: theMap,            // 表示させる地図（google.maps.Map）
+            radius: 10000,          // 半径（ｍ）
+            strokeColor: color, // 外周色 
+            strokeOpacity: 1,       // 外周透過度（0: 透明 ⇔ 1:不透明）
+            strokeWeight: 2         // 外周太さ（ピクセル）
         });
         bufCircle.push(circle);
     };
+}
+
+function scrollCal () {
+    var td = $('#calhere td.today');
+    var top = td.position().top - theCal.position().top;
+    if (top < 0) {
+        theCal.animate({scrollTop: (theCal.scrollTop() + top)}, 100);
+    } else if (top > theCal.height()) { 
+        theCal.animate({scrollTop: (theCal.scrollTop() + top - theCal.height() + td.height())}, 100);
+    }
 }
 
 function onLoadDesc (data) {
