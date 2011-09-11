@@ -12,9 +12,9 @@ http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
 
 == Resources ==
 
-* Wikipedia: http://en.wikipedia.org/wiki/List_of_earthquakes
-* Google Maps API
-* jQuery
+  * Wikipedia: http://en.wikipedia.org/wiki/List_of_earthquakes
+  * Google Maps API
+  * jQuery
 
 == Monetization ==
 
