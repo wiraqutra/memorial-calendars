@@ -303,8 +303,8 @@ function showMap () {
     theMap = new google.maps.Map(document.getElementById('maphere'), {
         zoom: 2,
         center: myLatLng,
-        // mapTypeId: google.maps.MapTypeId.SATELLITE,
-        mapTypeId: google.maps.MapTypeId.TERRAIN,
+        mapTypeId: google.maps.MapTypeId.SATELLITE,
+        // mapTypeId: google.maps.MapTypeId.TERRAIN,
         scaleControl: false,
         scrollwheel: false
     });
