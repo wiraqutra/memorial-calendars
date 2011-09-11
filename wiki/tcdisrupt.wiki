@@ -1,3 +1,17 @@
-Techcrunch Disrupt 2011 SF Hackathon
+==Techcrunch Disrupt 2011 SF Hackathon==
 
 http://disrupt.techcrunch.com/SF2011/hackathon/
+
+== Demo ==
+
+http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
+
+== Monetization ==
+
+N/A
+
+Human life value is priceless.
+
+== Note ==
+
+This application is based on an idea of @ishii_mit, Associate Director of the MIT Media Lab.
