@@ -8,8 +8,9 @@ The wisdom helps us to do something preparing toward the next coming disasters.
 
 == Options ==
 
-  * Calendar on Google Calendar http://bit.ly/eqcaltc
-  * KML for Google Earth http://memorial-calendars.googlecode.com/svn/trunk/pre2/data/eq-map.kml
+  * Calendar Online: http://bit.ly/eqcaltc
+  * iCal File: http://memorial-calendars.googlecode.com/svn/trunk/pre2/data/eq-ical.ics
+  * KML File: http://memorial-calendars.googlecode.com/svn/trunk/pre2/data/eq-map.kml
 
 == Resources ==
 
