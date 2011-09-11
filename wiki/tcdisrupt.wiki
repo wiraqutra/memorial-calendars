@@ -3,7 +3,7 @@
   * *TRY THIS DEMO* http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
 
 This calendar shows memorial days of earthquakes on the globe.
-This shows almost every day has had an earthquake(s) in the history.
+This shows almost every day has had one or more earthquakes in the history.
 The wisdom helps us do something to survive at the next coming disasters. 
 
 == Options ==
