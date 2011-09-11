@@ -25,7 +25,17 @@ html, body {
 }
 
 button {
-    margin: 0 2px;
+    margin: 0px 4px 4px;
+    padding: 1px 4px;
+    border: 1px solid black;
+    background: #EEEEEE;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+button:hover {
+    background: #CCCCCC;
 }
 
 header { 
