@@ -9,6 +9,7 @@ http://disrupt.techcrunch.com/SF2011/hackathon/
 http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
 
 This calendar shows memorial days of earthquakes on the globe.
+It's true that almost every day has had an earthquake(s) in the history.
 This will help us to do something preparing toward the next coming crisis. 
 
 == Resources ==
