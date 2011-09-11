@@ -6,9 +6,10 @@ http://disrupt.techcrunch.com/SF2011/hackathon/
 
 == Demo ==
 
-This calendar shows memorial days of earthquakes on the globe.
-
 http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
+
+This calendar shows memorial days of earthquakes on the globe.
+This will help us to do something toward the next coming crisis. 
 
 == Resources ==
 
