@@ -1,6 +1,6 @@
-== Wisdom of Earthquakes for #tcdisrupt hackathon ==
+== Wisdom of Earthquakes for [http://twitter.com/#!/search/%23tcdisrupt #tcdisrupt] Hackathon ==
 
-  * Demo -> http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
+  * *Demo* http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
 
 This calendar shows memorial days of earthquakes on the globe.
 It's true that almost every day has had an earthquake(s) in the history.
