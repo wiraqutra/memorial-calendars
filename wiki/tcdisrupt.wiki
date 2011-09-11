@@ -3,8 +3,8 @@
   * *TRY THIS DEMO* http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
 
 This calendar shows 500+ memorial days of earthquakes in the history of the globe.
-We can see almost every single day on calendar has had one or more earthquakes.
-The wisdom helps us do something to survive at the next coming disasters. 
+We could see almost every single day on calendar has had one or more earthquakes.
+The wisdom we can learn from earthquakes would help us do something to survive at the next coming disasters. 
 
 == Options ==
 
