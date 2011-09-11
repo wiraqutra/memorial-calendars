@@ -36,7 +36,7 @@ http://disrupt.techcrunch.com/SF2011/hackathon/
 
 == Hack For Japan ==
 
-See http://www.hack4.jp/
+See http://www.hack4.jp/ or [http://asiajin.com/blog/2011/03/20/all-star-developers-running-hackathon-to-build-disaster-info-services/ Asiajin]
 
 == Thanks ==
 
