@@ -1,12 +1,6 @@
-==Wisdom of Earthquakes for #tcdisrupt hackathon ==
+== Wisdom of Earthquakes for #tcdisrupt hackathon ==
 
-Techcrunch Disrupt 2011 SF Hackathon is held At the day of just half year past since the huge earthquake has attacked Northern Japan.
-
-http://disrupt.techcrunch.com/SF2011/hackathon/
-
-== Demo ==
-
-http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
+  * Demo -> http://memorial-calendars.googlecode.com/svn/trunk/pre2/index.html
 
 This calendar shows memorial days of earthquakes on the globe.
 It's true that almost every day has had an earthquake(s) in the history.
@@ -29,3 +23,7 @@ Human life value is priceless.
 This application is based on an idea of @ishii_mit, Associate Director of the MIT Media Lab:
 
 http://www.tweetdeck.com/twitter/ishii_mit/~9rZi9
+
+Techcrunch Disrupt 2011 SF Hackathon is held At the day of just half year past since the huge earthquake has attacked Northern Japan.
+
+http://disrupt.techcrunch.com/SF2011/hackathon/
