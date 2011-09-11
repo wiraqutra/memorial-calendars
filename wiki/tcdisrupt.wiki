@@ -24,7 +24,7 @@ Yusuke Kawasaki a.k.a. [http://twitter.com/kawanet @kawanet]
 
 == Note ==
 
-This application is based on an idea of @ishii_mit, Associate Director of the MIT Media Lab:
+This application is based on an idea of [http://twitter.com/ishii_mit @ishii_mit], Associate Director of the MIT Media Lab:
 
 http://www.tweetdeck.com/twitter/ishii_mit/~9rZi9
 
