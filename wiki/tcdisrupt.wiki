@@ -24,6 +24,6 @@ This application is based on an idea of @ishii_mit, Associate Director of the MI
 
 http://www.tweetdeck.com/twitter/ishii_mit/~9rZi9
 
-Techcrunch Disrupt 2011 SF Hackathon is held At the day of just half year past since the huge earthquake has attacked Northern Japan.
+The great hackathon here in the Techcrunch Disrupt 2011 SF is held at the day of just half year past since the huge earthquake has attacked Northern Japan.
 
 http://disrupt.techcrunch.com/SF2011/hackathon/
