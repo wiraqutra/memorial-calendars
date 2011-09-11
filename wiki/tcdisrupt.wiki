@@ -36,10 +36,10 @@ http://disrupt.techcrunch.com/SF2011/hackathon/
 
 == Hack For Japan ==
 
-See http://www.hack4.jp/ or [http://asiajin.com/blog/2011/03/20/all-star-developers-running-hackathon-to-build-disaster-info-services/ Asiajin].
+This project is supported by "Hack For Japan." See http://www.hack4.jp/ or [http://asiajin.com/blog/2011/03/20/all-star-developers-running-hackathon-to-build-disaster-info-services/ Asiajin].
 
 == Thanks ==
 
-This application is based on an idea of [http://twitter.com/ishii_mit @ishii_mit], Associate Director of the MIT Media Lab:
+This application is launched from a proposal by [http://twitter.com/ishii_mit @ishii_mit], Associate Director of the MIT Media Lab:
 
 http://www.tweetdeck.com/twitter/ishii_mit/~9rZi9
