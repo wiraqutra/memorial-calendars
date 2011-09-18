@@ -28,7 +28,7 @@ Yusuke Kawasaki, a.k.a. [http://twitter.com/kawanet @kawanet], Perl, Javascript 
 
 ==  [http://twitter.com/#!/search/%23tcdisrupt #tcdisrupt] Hackathon ==
 
-The pre-2 version of this is hacked at the great hackathon held here in the Techcrunch Disrupt 2011 SF at the day of just half year past since the huge earthquake has attacked Northern Japan.
+The pre-2 version of this is hacked at the great (huge) hackathon held at the Techcrunch Disrupt 2011 SF at the same day of just half year past since the huge earthquake has attacked Northern Japan.
 
 http://disrupt.techcrunch.com/SF2011/hackathon/
 
