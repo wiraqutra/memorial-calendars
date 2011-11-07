@@ -18,6 +18,10 @@ h1 #ctrlhere {
     float: right;
 }
 
+h1 #fb-root {
+    float: right;
+}
+
 html, body {
     margin: 0;
     padding: 0;
